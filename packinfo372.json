@@ -1,0 +1,506 @@
+{
+   "ID":372,
+   "Name":"RBHOT CUSTOM PACK 16",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack16.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881004720,
+         "Name":"IN BETWEEN",
+         "Artist":"L.E.D.-G feat. Mayumi Morinaga",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004720.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004730,
+         "Name":"Satisfiction",
+         "Artist":"t+pazolite",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004730.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004740,
+         "Name":"SAtAN",
+         "Artist":"P*Light",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004750,
+         "Name":"saQrifice",
+         "Artist":"Team Grimoire",
+         "Level":[
+            4,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004760,
+         "Name":"Blue River",
+         "Artist":"T-BONE",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004770,
+         "Name":"Chaos:Q",
+         "Artist":"nonuplet",
+         "Level":[
+            5,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004780,
+         "Name":"L-an!ma",
+         "Artist":"Master of Lapis",
+         "Level":[
+            8,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004780.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004790,
+         "Name":"生命の環を紡いで",
+         "Artist":"han@*mori",
+         "Level":[
+            7,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004790.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004800,
+         "Name":"НУМЛ",
+         "Artist":"Zutt",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004800.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004810,
+         "Name":"Soundscape",
+         "Artist":"Hommarju",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004810.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004820,
+         "Name":"Flashes",
+         "Artist":"Dollscythe",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004820.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004830,
+         "Name":"Metric",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004830.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004840,
+         "Name":"Wowie Zowie!",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004840.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004850,
+         "Name":"琥珀のくちづけ",
+         "Artist":"日向美ビタースイーツ♪＆日向美ブルームーン",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004850.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004860,
+         "Name":"みたらしプラトニック (feat. nicamoq)",
+         "Artist":"Yunomi",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004860.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004870,
+         "Name":"UNBELIEVABLE (Sparky remix)",
+         "Artist":"jun feat. Sarah-Jane",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004870.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004880,
+         "Name":"Carezza",
+         "Artist":"Osamu Kubota",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004880.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004890,
+         "Name":"STARDUST MERMAID",
+         "Artist":"Music by MasKaleido, Vocal by ぁゅ",
+         "Level":[
+            1,
+            4,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004890.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004900,
+         "Name":"AKATSUKI",
+         "Artist":"L.E.D. Vs GUHROOVY",
+         "Level":[
+            5,
+            9,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004910,
+         "Name":"Heracles",
+         "Artist":"Yooh",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004910.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004920,
+         "Name":"QuoN",
+         "Artist":"Power Of Nature",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004920.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004930,
+         "Name":"yellow head joe",
+         "Artist":"S-C-U",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004930.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004940,
+         "Name":"Timberwolves",
+         "Artist":"S-C-U",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004940.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004950,
+         "Name":"planarian",
+         "Artist":"S-C-U",
+         "Level":[
+            5,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004950.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004960,
+         "Name":"heron",
+         "Artist":"S-C-U",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004970,
+         "Name":"AFRO KNUCKLE",
+         "Artist":"猫叉Master+",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004980,
+         "Name":"encounter",
+         "Artist":"猫叉Master+",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004990,
+         "Name":"サケビノミドリ",
+         "Artist":"猫叉Master",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005000,
+         "Name":"Funny shuffle",
+         "Artist":"猫叉Master+",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005000.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,727 @@
+{
+   "ID":358,
+   "Name":"RBHOT CUSTOM PACK 2",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack2.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881001570,
+         "Name":"Chloe",
+         "Artist":"DJ Totoriott",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001570.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001580,
+         "Name":"Vanity",
+         "Artist":"Vivian",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001580.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001590,
+         "Name":"此岸の戯事",
+         "Artist":"Akhuta",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001590.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001600,
+         "Name":"Diargosの森",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001610,
+         "Name":"Cypher Gate",
+         "Artist":"7 Sequence",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001610.png",
+         "PID":[
+            171
+         ]
+      },
+      {
+         "ID":881001620,
+         "Name":"怪盗BisCoの予告状！！",
+         "Artist":"Qrispy Joybox",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001620.png",
+         "PID":[
+            172
+         ]
+      },
+      {
+         "ID":881001630,
+         "Name":"snow storm",
+         "Artist":"dj TAKA",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001630.png",
+         "PID":[
+            173
+         ]
+      },
+      {
+         "ID":881001640,
+         "Name":"candii",
+         "Artist":"八王子P",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001640.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001650,
+         "Name":"Shades of Light in a Transcendent Realm",
+         "Artist":"ak+q",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001660,
+         "Name":"Lucifer",
+         "Artist":"chitose",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001660.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001670,
+         "Name":"Lost Civilization",
+         "Artist":"Laur vs CK",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001680,
+         "Name":"Sheriruth",
+         "Artist":"Team Grimoire",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882155300,
+         "Name":"宛城、炎上！！",
+         "Artist":"Cranky feat.おもしろ三国志",
+         "Level":[
+            9,
+            11,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882155300.png",
+         "PID":[
+            199
+         ]
+      },
+      {
+         "ID":882200050,
+         "Name":"Diffused Reflection",
+         "Artist":"ニシジマユーキ",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200060,
+         "Name":"conflict(Custom1)",
+         "Artist":"siromaru + cranky",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200070,
+         "Name":"You can't do it if you try",
+         "Artist":"遠藤一馬&あさき",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200080,
+         "Name":"Rainy Heart (DLPHN's EuroMIX) feat.bhyper",
+         "Artist":"Remix by DJ DLPHN",
+         "Level":[
+            3,
+            5,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200160,
+         "Name":"進め！イッスン軍団 -Rebellion of the Dwarfs-",
+         "Artist":"dawn-system",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200160.png",
+         "PID":[
+            200
+         ]
+      },
+      {
+         "ID":882200250,
+         "Name":"Inflation!",
+         "Artist":"Ruin Lab.",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200250.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200260,
+         "Name":"INF-B《L-aste-R》",
+         "Artist":"かねこちはる",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200260.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200270,
+         "Name":"衝動がえがいた どうしようもないストーリー",
+         "Artist":"2B-Waves",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200270.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200280,
+         "Name":"0時20分のRoulette",
+         "Artist":"ApachE with T_da",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200280.png",
+         "PID":[
+            201
+         ]
+      },
+      {
+         "ID":882200290,
+         "Name":"iFUTURELIST",
+         "Artist":"AKIRA YAMAOKA",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200290.png",
+         "PID":[
+            202
+         ]
+      },
+      {
+         "ID":882200300,
+         "Name":"OVER THE CLOUDS",
+         "Artist":"Lala Moore",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200300.png",
+         "PID":[
+            203
+         ]
+      },
+      {
+         "ID":882200310,
+         "Name":"BALALAIKA, CARRIED WITH THE WIND",
+         "Artist":"Julie ann Frost",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200310.png",
+         "PID":[
+            204
+         ]
+      },
+      {
+         "ID":882200320,
+         "Name":"Morning Glory",
+         "Artist":"BeForU",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200320.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200330,
+         "Name":"Touch My Body",
+         "Artist":"anubasu-anubasu",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200330.png",
+         "PID":[
+            205
+         ]
+      },
+      {
+         "ID":882200340,
+         "Name":"獅子霞麗ノ舞",
+         "Artist":"HuΣeR",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200340.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882299990,
+         "Name":"悠久のPEGASUS",
+         "Artist":"SOUND HOLIC Vs. T.Kakuta feat. Nana Takahashi",
+         "Level":[
+            5,
+            8,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882299990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":886100000,
+         "Name":"Jack and Mark Get Busy!",
+         "Artist":"Distant Soundz Feat. MC Image",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"886100000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":886100010,
+         "Name":"LA LA LA LA YO-DEL",
+         "Artist":"DJ SIMON",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"886100010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":886100020,
+         "Name":"BATTLE BREAKS",
+         "Artist":"DJ TAKAWO",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"886100020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200331,
+         "Name":"Touch My Body",
+         "Artist":"anubasu-anubasu",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200330.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200311,
+         "Name":"BALALAIKA, CARRIED WITH THE WIND",
+         "Artist":"Julie ann Frost",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200310.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200301,
+         "Name":"OVER THE CLOUDS",
+         "Artist":"Lala Moore",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200300.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200291,
+         "Name":"iFUTURELIST",
+         "Artist":"AKIRA YAMAOKA",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200290.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200281,
+         "Name":"0時20分のRoulette",
+         "Artist":"ApachE with T_da",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200280.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200161,
+         "Name":"進め！イッスン軍団 -Rebellion of the Dwarfs-",
+         "Artist":"dawn-system",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882155301,
+         "Name":"燃えてもエンジョイ!宛城、炎上!!",
+         "Artist":"箱部孟徳 feat.小仏氏(イロドリミドリ)",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882155300.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882155301,
+         "Name":"snow storm -euphoria-",
+         "Artist":"Yooh",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001630.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001621,
+         "Name":"怪盗BisCoの予告状！！",
+         "Artist":"Qrispy Joybox",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001620.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001611,
+         "Name":"Cypher Gate",
+         "Artist":"7 Sequence",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001610.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

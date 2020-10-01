@@ -1,0 +1,455 @@
+{
+   "ID":360,
+   "Name":"RBHOT CUSTOM PACK 4",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack4.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881001900,
+         "Name":"Nightmare before oversleep",
+         "Artist":"猫叉Master",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001910,
+         "Name":"Androgynos",
+         "Artist":"WAiKURO",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001910.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001920,
+         "Name":"Follow Tomorrow",
+         "Artist":"HHH×MM×ST",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001920.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001930,
+         "Name":"天嘩乱舞",
+         "Artist":"栗須承之介",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001930.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001940,
+         "Name":"ススススペースハリネズミ",
+         "Artist":"S-C-U",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001940.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001950,
+         "Name":"霖が哭く",
+         "Artist":"Power of Nature",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001950.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001960,
+         "Name":"Towards the TOWER",
+         "Artist":"SHAMDEL",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001970,
+         "Name":"twinkle noise",
+         "Artist":"ZUKI",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001980,
+         "Name":"走り続けて",
+         "Artist":"秋桜",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001990,
+         "Name":"月雪に舞う花のように",
+         "Artist":"猫叉Master",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002000,
+         "Name":"歌劇 月夜のアラビア",
+         "Artist":"劇団レコード feat.夏川陽子",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002010,
+         "Name":"恋歌疾風！かるたクイーンいろは",
+         "Artist":"ねこまんまチーム！",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200450,
+         "Name":"DOUBLE ORBIT",
+         "Artist":"泉 陸奥彦",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200450.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200460,
+         "Name":"MAGICAL JET TOUR",
+         "Artist":"泉 陸奥彦",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200460.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200470,
+         "Name":"Snow Goose(Custom1)",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200470.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200480,
+         "Name":"CARNIVOROUS(Custom1)",
+         "Artist":"SOUND HOLIC feat. Nana Takahashi",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200480.png",
+         "PID":[
+            208
+         ]
+      },
+      {
+         "ID":882200490,
+         "Name":"それは花火のような恋",
+         "Artist":"夏色バーニングラブ☆Prim",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200490.png",
+         "PID":[
+            209
+         ]
+      },
+      {
+         "ID":882200500,
+         "Name":"メイビ～初恋！？ビスケット☆大作戦",
+         "Artist":"DJ TOTTO×mitsu feat.BisCo(CV:洲崎綾)",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200500.png",
+         "PID":[
+            210
+         ]
+      },
+      {
+         "ID":882200510,
+         "Name":"Warrior",
+         "Artist":"DJ CHUCKY feat. Jonjo",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200510.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200520,
+         "Name":"Beat Juggling Mix",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200520.png",
+         "PID":[
+            211
+         ]
+      },
+      {
+         "ID":882200530,
+         "Name":"stealth",
+         "Artist":"DAISUKE ASAKURA",
+         "Level":[
+            5,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200530.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200540,
+         "Name":"ENDYMION(Custom1)",
+         "Artist":"fallen shepherd ft. RabbiTon Strings",
+         "Level":[
+            7,
+            10,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200540.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200521,
+         "Name":"Beat Juggling Mix",
+         "Artist":"Hommarju",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200520.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200501,
+         "Name":"メイビ～初恋！？ビスケット☆大作戦",
+         "Artist":"DJ TOTTO×mitsu feat.BisCo(CV:洲崎綾)",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200500.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200491,
+         "Name":"それは花火のような恋",
+         "Artist":"夏色バーニングラブ☆Prim",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200490.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200481,
+         "Name":"CARNIVOROUS(Custom1)",
+         "Artist":"SOUND HOLIC feat. Nana Takahashi",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200480.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

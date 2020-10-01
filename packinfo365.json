@@ -1,0 +1,880 @@
+{
+   "ID":365,
+   "Name":"RBHOT CUSTOM PACK 9",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack9.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881002720,
+         "Name":"HEART BEAT FORMULA",
+         "Artist":"TAG",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002720.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002730,
+         "Name":"Dragoon",
+         "Artist":"Shandy kubota",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002730.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002740,
+         "Name":"DRAGONLADY",
+         "Artist":"Nankumo/CUBE3",
+         "Level":[
+            6,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002750,
+         "Name":"HADES",
+         "Artist":"Massive New Krew",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002760,
+         "Name":"Oshama Scramble!",
+         "Artist":"t+pazolite",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002770,
+         "Name":"UMMU",
+         "Artist":"t+pazolite",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002780,
+         "Name":"Contrapasso -paradiso-",
+         "Artist":"t+pazolite",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002780.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002790,
+         "Name":"Garakuta Doll Play",
+         "Artist":"t+pazolite",
+         "Level":[
+            8,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002790.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002800,
+         "Name":"Devil Fish Dumpling",
+         "Artist":"96",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002800.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002810,
+         "Name":"瞬",
+         "Artist":"小野秀幸",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002810.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002820,
+         "Name":"electro peaceful",
+         "Artist":"Mr.T",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002820.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002830,
+         "Name":"流砂の嵐",
+         "Artist":"劇団レコード",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002830.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002840,
+         "Name":"トルコ行進曲",
+         "Artist":"T.M.Orchestra",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002840.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002850,
+         "Name":"Identity Part 4",
+         "Artist":"SHK",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002850.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002860,
+         "Name":"Identity Part 5",
+         "Artist":"SHK",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002860.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002870,
+         "Name":"VOLTEXES III",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002870.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002880,
+         "Name":"VOLTEXES IV",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002880.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002890,
+         "Name":"Last Burning",
+         "Artist":"Dirty Androids",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002890.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002900,
+         "Name":"津軽雪",
+         "Artist":"罠師 VS 安室",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002910,
+         "Name":"20,november",
+         "Artist":"DJ nagureo",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002910.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002920,
+         "Name":"Back Spin Sweeper",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002920.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002930,
+         "Name":"Slang",
+         "Artist":"Kozo Nakamura",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002930.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002940,
+         "Name":"Beyond The Seven",
+         "Artist":"Nhato",
+         "Level":[
+            3,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002940.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002950,
+         "Name":"BabeL ～Grand Story～",
+         "Artist":"Ako Atak",
+         "Level":[
+            3,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002950.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002960,
+         "Name":"BLACK or WHITE?",
+         "Artist":"BlackYooh vs. siromaru",
+         "Level":[
+            5,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002970,
+         "Name":"YELL!",
+         "Artist":"DJ Genki VS かめりあ feat. moimoi",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002980,
+         "Name":"Dawn of Asia",
+         "Artist":"ginkiha+kamome sano",
+         "Level":[
+            5,
+            9,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002990,
+         "Name":"Surrender",
+         "Artist":"void",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003000,
+         "Name":"カグツチ",
+         "Artist":"Massive New Krew",
+         "Level":[
+            6,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003010,
+         "Name":"Lachryma《Re:Queen'M》",
+         "Artist":"かねこちはる",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003010.png",
+         "PID":[
+            178
+         ]
+      },
+      {
+         "ID":881003030,
+         "Name":"HE4VEN ～天国へようこそ～",
+         "Artist":"カモメサノエレクトリックオーケストラ",
+         "Level":[
+            6,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003030.png",
+         "PID":[
+            179
+         ]
+      },
+      {
+         "ID":881003050,
+         "Name":"WHITEOUT",
+         "Artist":"かねこちはる",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003050.png",
+         "PID":[
+            180
+         ]
+      },
+      {
+         "ID":881003070,
+         "Name":"I",
+         "Artist":"黒魔",
+         "Level":[
+            7,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003070.png",
+         "PID":[
+            181
+         ]
+      },
+      {
+         "ID":882201000,
+         "Name":"Sweet Sweet ♥ Magic",
+         "Artist":"jun",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201010,
+         "Name":"TRUE♥LOVE (Clubstar's True Club Mix)",
+         "Artist":"jun feat. Schanita",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201020,
+         "Name":"CROSSROAD",
+         "Artist":"jun with TAHIRIH",
+         "Level":[
+            4,
+            7,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201030,
+         "Name":"Firefly",
+         "Artist":"BeForU",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201030.png",
+         "PID":[
+            222
+         ]
+      },
+      {
+         "ID":882201040,
+         "Name":"Baby's Tears",
+         "Artist":"MIKI ROBERTS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201050,
+         "Name":"大和撫子魂",
+         "Artist":"小坂りゆ",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201050.png",
+         "PID":[
+            223
+         ]
+      },
+      {
+         "ID":882201060,
+         "Name":"Look To The Sky",
+         "Artist":"System S.F. feat.ANNA",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201070,
+         "Name":"Kind Lady",
+         "Artist":"OKUYATOS",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201080,
+         "Name":"CONCEPTUAL(Custom1)",
+         "Artist":"Sota Fujimori 2nd Season",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201090,
+         "Name":"Twin Bee ～Generation X～",
+         "Artist":"FinalOffset",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201100,
+         "Name":"321 STARS",
+         "Artist":"DJ SIMON",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201110,
+         "Name":"R5",
+         "Artist":"tigerYAMATO with ultrabeatbox",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201051,
+         "Name":"大和撫子魂",
+         "Artist":"小坂りゆ",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201031,
+         "Name":"Firefly",
+         "Artist":"BeForU",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003071,
+         "Name":"I",
+         "Artist":"黒魔",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003051,
+         "Name":"WHITEOUT",
+         "Artist":"かねこちはる",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003031,
+         "Name":"HE4VEN ～天国へようこそ～",
+         "Artist":"カモメサノエレクトリックオーケストラ",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003011,
+         "Name":"Lachryma《Re:Queen'M》",
+         "Artist":"かねこちはる",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003010.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

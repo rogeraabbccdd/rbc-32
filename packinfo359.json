@@ -1,0 +1,676 @@
+{
+   "ID":359,
+   "Name":"RBHOT CUSTOM PACK 3",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack3.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881001690,
+         "Name":"FUNKY SUMMER BEACH",
+         "Artist":"P*Light",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001690.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001700,
+         "Name":"2 MINUTES FIGHTERS",
+         "Artist":"P*Light",
+         "Level":[
+            7,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001700.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001710,
+         "Name":"STARLIGHT DANCEHALL",
+         "Artist":"P*Light",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001720,
+         "Name":"月光乱舞",
+         "Artist":"P*Light",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001720.png",
+         "PID":[
+            174
+         ]
+      },
+      {
+         "ID":881001740,
+         "Name":"Debtty Daddy",
+         "Artist":"sampling masters AYA",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001750,
+         "Name":"時雨インソムニア",
+         "Artist":"純情ディスコード",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001760,
+         "Name":"Theory of Eternity",
+         "Artist":"TAG",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001770,
+         "Name":"煉獄のエルフェリア",
+         "Artist":"猫叉Master+",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001780,
+         "Name":"Giant Otter Family",
+         "Artist":"S-C-U",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001780.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001790,
+         "Name":"檄",
+         "Artist":"Ryu☆ feat.青龍",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001790.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001800,
+         "Name":"Against the vulgar aggressor",
+         "Artist":"GUHROOVY",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001800.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001810,
+         "Name":"Megalara Garuda",
+         "Artist":"SYUNN",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001810.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001820,
+         "Name":"Reflux",
+         "Artist":"Eagle",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001820.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001830,
+         "Name":"デンドロビウム",
+         "Artist":"TAG",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001830.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001840,
+         "Name":"NEO GENERATOR SEVEN",
+         "Artist":"L.E.D.-G",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001840.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001850,
+         "Name":"COLOSSEUM",
+         "Artist":"劇団レコード",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001850.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001860,
+         "Name":"Shining Wizard",
+         "Artist":"96",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001860.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001870,
+         "Name":"幽明異境(Custom2)",
+         "Artist":"96",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001870.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001880,
+         "Name":"KAISER PHOENIX",
+         "Artist":"96",
+         "Level":[
+            3,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001880.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001890,
+         "Name":"Beat Radiance",
+         "Artist":"iNO",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001890.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881100460,
+         "Name":"FREEDOM DiVE↓",
+         "Artist":"xi",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100460.png",
+         "PID":[
+            195
+         ]
+      },
+      {
+         "ID":881100480,
+         "Name":"Glorious Crown",
+         "Artist":"xi",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100480.png",
+         "PID":[
+            196
+         ]
+      },
+      {
+         "ID":881100490,
+         "Name":"End Time",
+         "Artist":"Cres",
+         "Level":[
+            5,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100490.png",
+         "PID":[
+            197
+         ]
+      },
+      {
+         "ID":882200350,
+         "Name":"Donkey Donk",
+         "Artist":"Ryu☆",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200350.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200360,
+         "Name":"突然ゴルゴンゾーラ",
+         "Artist":"ひので155",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200360.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200370,
+         "Name":"DEAD END",
+         "Artist":"N＆S",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200370.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200380,
+         "Name":"Darling my LUV",
+         "Artist":"DJ Yoshitaka feat.B-Agents",
+         "Level":[
+            4,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200380.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200390,
+         "Name":"合体せよ！ストロングイェーガー！！ (Ryu☆ remix)",
+         "Artist":"L.E.D. / Remixed by Ryu☆",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200390.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200400,
+         "Name":"ウエンレラの氷華",
+         "Artist":"Cororo",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200400.png",
+         "PID":[
+            206
+         ]
+      },
+      {
+         "ID":882200410,
+         "Name":"元禄花吹雪",
+         "Artist":"泉 陸奥彦",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200410.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200420,
+         "Name":"月影華 (TSUKI-KAGE-BANA)",
+         "Artist":"丸山和嘉",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200420.png",
+         "PID":[
+            207
+         ]
+      },
+      {
+         "ID":882200430,
+         "Name":"ヤマトなでなで❤かぐや姫",
+         "Artist":"ロマンチック❤Prim姫",
+         "Level":[
+            2,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200430.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200440,
+         "Name":"RED ZONE(Custom1)",
+         "Artist":"Tatsh&NAOKI",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200440.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200421,
+         "Name":"月影華 (TSUKI-KAGE-BANA)",
+         "Artist":"丸山和嘉",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200420.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200401,
+         "Name":"ウエンレラの氷華",
+         "Artist":"Cororo",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200400.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881100491,
+         "Name":"End Time",
+         "Artist":"Cres",
+         "Level":[
+            15,
+            15,
+            15
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100490.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881100481,
+         "Name":"Glorious Crown",
+         "Artist":"xi",
+         "Level":[
+            13,
+            13,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100480.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881100461,
+         "Name":"FREEDOM DiVE↓",
+         "Artist":"xi",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100460.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881001721,
+         "Name":"月光乱舞",
+         "Artist":"P*Light",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881001720.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

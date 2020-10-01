@@ -1,0 +1,1254 @@
+{
+   "ID":350,
+   "Name":"RBHOT 音乐弾球 PACK",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"cnPack1.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":887000010,
+         "Name":"全面通缉 (音乐弹球Ver.)",
+         "Artist":"潘玮柏",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000020,
+         "Name":"欧若拉 (音乐弹球Ver.)",
+         "Artist":"张韶涵",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000030,
+         "Name":"亚特兰提斯 (音乐弹球Ver.)",
+         "Artist":"F.I.R",
+         "Level":[
+            1,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000040,
+         "Name":"独一无二 (音乐弹球Ver.)",
+         "Artist":"罗志祥",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000050,
+         "Name":"无乐不作 (音乐弹球Ver.)",
+         "Artist":"范逸臣",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000060,
+         "Name":"小妞 (音乐弹球Ver.)",
+         "Artist":"罗百吉",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000070,
+         "Name":"勇敢飞象 (音乐弹球Ver.)",
+         "Artist":"CoLoR乐队",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000080,
+         "Name":"新窝 (音乐弹球Ver.)",
+         "Artist":"飞轮海",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000090,
+         "Name":"御花园 (音乐弹球Ver.)",
+         "Artist":"苏打绿",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000100,
+         "Name":"自然醒 (音乐弹球Ver.)",
+         "Artist":"林宥嘉",
+         "Level":[
+            1,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000110,
+         "Name":"听妈妈的话 (音乐弹球Ver.)",
+         "Artist":"周杰伦",
+         "Level":[
+            1,
+            3,
+            5
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000120,
+         "Name":"PP别黏在椅上 (音乐弹球Ver.)",
+         "Artist":"By2",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000130,
+         "Name":"老夫子情歌 (音乐弹球Ver.)",
+         "Artist":"阿牛",
+         "Level":[
+            3,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000140,
+         "Name":"喇舌 (音乐弹球Ver.)",
+         "Artist":"大嘴巴",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000140.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000150,
+         "Name":"Deadline (音乐弹球Ver.)",
+         "Artist":"张敬轩",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000150.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000160,
+         "Name":"客官不可以 (音乐弹球Ver.)",
+         "Artist":"小凌&徐良",
+         "Level":[
+            2,
+            3,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000180,
+         "Name":"咬耳朵 (音乐弹球Ver.)",
+         "Artist":"至上励合",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000190,
+         "Name":"窝哦 (音乐弹球Ver.)",
+         "Artist":"青鸟飞鱼",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000200,
+         "Name":"最佳男朋友 (音乐弹球Ver.)",
+         "Artist":"郭书瑶",
+         "Level":[
+            2,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000210,
+         "Name":"One More Time (音乐弹球Ver.)",
+         "Artist":"Daft Punk",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000230,
+         "Name":"Queen Dot Kong (音乐弹球Ver.)",
+         "Artist":"The Dø",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000230.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000240,
+         "Name":"Koko Soko (音乐弹球Ver.)",
+         "Artist":"Smile.dk",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000240.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000250,
+         "Name":"Born This Way (音乐弹球Ver.)",
+         "Artist":"Lady Gaga",
+         "Level":[
+            2,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000250.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000260,
+         "Name":"Tonight Tonight (音乐弹球Ver.)",
+         "Artist":"Hot Chelle Rae",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000260.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000270,
+         "Name":"What the Hell (音乐弹球Ver.)",
+         "Artist":"Avril Lavigne",
+         "Level":[
+            3,
+            5,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000270.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000280,
+         "Name":"Without U (音乐弹球Ver.)",
+         "Artist":"青山 テルマ",
+         "Level":[
+            2,
+            5,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000280.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000290,
+         "Name":"Telephone (音乐弹球Ver.)",
+         "Artist":"Lady Gaga & Beyoncé",
+         "Level":[
+            3,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000290.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000300,
+         "Name":"You Belong With Me (音乐弹球Ver.)",
+         "Artist":"Taylor Swift",
+         "Level":[
+            1,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000300.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000310,
+         "Name":"Supercalifragilisticexpialidocious (音乐弹球Ver.)",
+         "Artist":"Go Go Girls",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000310.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000330,
+         "Name":"I my me mine (音乐弹球Ver.)",
+         "Artist":"POLYSICS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000330.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000410,
+         "Name":"What Can I Do (音乐弹球Ver.)",
+         "Artist":"Seungri",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000410.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000420,
+         "Name":"Bingo (音乐弹球Ver.)",
+         "Artist":"Turtles",
+         "Level":[
+            1,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000420.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000430,
+         "Name":"You Know (音乐弹球Ver.)",
+         "Artist":"4minute",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000430.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000440,
+         "Name":"Lupin (音乐弹球Ver.)",
+         "Artist":"KARA",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000440.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000450,
+         "Name":"Bubble Pop! (音乐弹球Ver.)",
+         "Artist":"HyunA",
+         "Level":[
+            2,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000450.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000460,
+         "Name":"Oh! (音乐弹球Ver.)",
+         "Artist":"少女時代",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000460.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000470,
+         "Name":"Lalala (音乐弹球Ver.)",
+         "Artist":"Mighty Mouth",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000470.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000490,
+         "Name":"Mr. Simple (音乐弹球Ver.)",
+         "Artist":"SUPER JUNIOR",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000490.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000500,
+         "Name":"I Hope (音乐弹球Ver.)",
+         "Artist":"F.T.Island",
+         "Level":[
+            3,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000500.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000510,
+         "Name":"Watch Out (音乐弹球Ver.)",
+         "Artist":"Brown Eyed Girls",
+         "Level":[
+            1,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000510.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000520,
+         "Name":"Bang! (音乐弹球Ver.)",
+         "Artist":"AFTERSCHOOL",
+         "Level":[
+            2,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000520.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000530,
+         "Name":"Christmas Carol (音乐弹球Ver.)",
+         "Artist":"GPBasic",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000530.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000620,
+         "Name":"レーザービーム (音乐弹球Ver.)",
+         "Artist":"Perfume",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000620.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000630,
+         "Name":"only my railgun (音乐弹球Ver.)",
+         "Artist":"fripSide",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000630.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000650,
+         "Name":"君が好きだと叫びたい (音乐弹球Ver.)",
+         "Artist":"BAAD",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000670,
+         "Name":"LOVE & JOY (音乐弹球Ver.)",
+         "Artist":"木村由姫",
+         "Level":[
+            4,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000680,
+         "Name":"Infinity (音乐弹球Ver.)",
+         "Artist":"GIRL NEXT DOOR",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000690,
+         "Name":"Esperanza (音乐弹球Ver.)",
+         "Artist":"西野 カナ",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000690.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000700,
+         "Name":"マル・マル・モリ・モリ! (音乐弹球Ver.)",
+         "Artist":"薫と友樹、たまにムック。",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000700.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000710,
+         "Name":"言い訳Maybe (音乐弹球Ver.)",
+         "Artist":"AKB48",
+         "Level":[
+            3,
+            6,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000720,
+         "Name":"Boys & Girls (音乐弹球Ver.)",
+         "Artist":"浜崎あゆみ",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000720.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000730,
+         "Name":"LOVE☆トロピカ～ナ・デラックス (音乐弹球Ver.)",
+         "Artist":"Sister MAYO",
+         "Level":[
+            2,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000730.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000740,
+         "Name":"炉心融解 (音乐弹球Ver.)",
+         "Artist":"iroha(sasaki)",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000750,
+         "Name":"トルコ行進曲 - オワタ＼(^o^)／ (音乐弹球Ver.)",
+         "Artist":"オワタP",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000760,
+         "Name":"SAMURAI GROOVE (音乐弹球Ver.)",
+         "Artist":"DUFF",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000770,
+         "Name":"LEVEL5 -judgelight- (音乐弹球Ver.)",
+         "Artist":"fripSide",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000780,
+         "Name":"ドラえもんのうた (音乐弹球Ver.)",
+         "Artist":"大杉久美子",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000780.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000790,
+         "Name":"Let's ダバダバ (音乐弹球Ver.)",
+         "Artist":"POLYSICS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000790.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000810,
+         "Name":"Aal Izz Well (音乐弹球Ver.)",
+         "Artist":"3 Idiots",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000810.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000840,
+         "Name":"情熱大陸 (音乐弹球Ver.)",
+         "Artist":"葉加瀬太郎",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000840.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000860,
+         "Name":"Croatian Rhapsody (音乐弹球Ver.)",
+         "Artist":"Maksim Mrvica",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000860.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000870,
+         "Name":"酔狂HEAVEN! (音乐弹球Ver.)",
+         "Artist":"煉獄庭園",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000870.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000880,
+         "Name":"五月雨 (音乐弹球Ver.)",
+         "Artist":"高梨康治",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000880.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887000900,
+         "Name":"The Story Begins (音乐弹球Ver.)",
+         "Artist":"SADA & SOTA",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887000900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001210,
+         "Name":"第一天 (音乐弹球Ver.)",
+         "Artist":"孙燕姿",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001220,
+         "Name":"舒服舒服 (音乐弹球Ver.)",
+         "Artist":"大张伟",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001220.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001230,
+         "Name":"三国恋 (音乐弹球Ver.)",
+         "Artist":"Tank",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001230.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001240,
+         "Name":"夏夕夏景 (音乐弹球Ver.)",
+         "Artist":"旺福",
+         "Level":[
+            2,
+            4,
+            6
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001240.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001250,
+         "Name":"心电心 (音乐弹球Ver.)",
+         "Artist":"王心凌",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001250.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001260,
+         "Name":"Mr.Q (音乐弹球Ver.)",
+         "Artist":"蔡依林",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001260.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001270,
+         "Name":"穷开心 (音乐弹球Ver.)",
+         "Artist":"花儿乐队",
+         "Level":[
+            1,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001270.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001280,
+         "Name":"保庇 (音乐弹球Ver.)",
+         "Artist":"王彩桦",
+         "Level":[
+            1,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001280.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":887001290,
+         "Name":"水手怕水 (音乐弹球Ver.)",
+         "Artist":"周杰伦",
+         "Level":[
+            2,
+            4,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"887001290.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

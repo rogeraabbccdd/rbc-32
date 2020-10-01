@@ -1,0 +1,472 @@
+{
+   "ID":376,
+   "Name":"RBHOT CUSTOM PACK 20",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack20.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881005930,
+         "Name":"Broken Sword",
+         "Artist":"金獅子 VS 麒麟",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005930.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005940,
+         "Name":"Snakey Kung-fu",
+         "Artist":"金獅子 vs 麒麟 feat. 獏",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005940.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005960,
+         "Name":"嘆きの樹",
+         "Artist":"金獅子",
+         "Level":[
+            8,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005970,
+         "Name":"Rave Cannon",
+         "Artist":"kors k",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005980,
+         "Name":"yamabiko (SINOBUZ Edition)",
+         "Artist":"かめりあ",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005990,
+         "Name":"ECHIDNA",
+         "Artist":"HuΣeR",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006020,
+         "Name":"INVISIBLE STRIX",
+         "Artist":"L.E.D.",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006030,
+         "Name":"刃図羅",
+         "Artist":"猫叉Master vs HuΣeR",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006030.png",
+         "PID":[
+            190
+         ]
+      },
+      {
+         "ID":881006050,
+         "Name":"夢想歌",
+         "Artist":"Suara",
+         "Level":[
+            1,
+            4,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006060,
+         "Name":"Airwave",
+         "Artist":"ReX",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006070,
+         "Name":"STAR SHIP☆HERO",
+         "Artist":"Lucky Vacuum",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006080,
+         "Name":"アガット",
+         "Artist":"Bazole",
+         "Level":[
+            7,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006090,
+         "Name":"Welcome to the Mosh Pit",
+         "Artist":"lapix",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006100,
+         "Name":"Carry Me Away",
+         "Artist":"lapix",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006110,
+         "Name":"〆",
+         "Artist":"lapix",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006120,
+         "Name":"Paradoxy",
+         "Artist":"lapix",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006130,
+         "Name":"Debug Dance",
+         "Artist":"lapix",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006140,
+         "Name":"Invisible Border",
+         "Artist":"world sequence",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006140.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006150,
+         "Name":"不可説不可説転",
+         "Artist":"OSTER project",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006150.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006160,
+         "Name":"aleatrik",
+         "Artist":"nc ft. NRGFactory",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006170,
+         "Name":"Boss Rush",
+         "Artist":"USAO",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006170.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006180,
+         "Name":"En FIRE-G SOUL",
+         "Artist":"Yooh",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006190,
+         "Name":"Seraphim",
+         "Artist":"Yooh",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006200,
+         "Name":"Destiny",
+         "Artist":"Yooh",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006210,
+         "Name":"Tribal Trial",
+         "Artist":"Yooh",
+         "Level":[
+            4,
+            7,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881020200,
+         "Name":"２０２０",
+         "Artist":"Ω",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881020200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881006031,
+         "Name":"刃図羅",
+         "Artist":"猫叉Master vs HuΣeR",
+         "Level":[
+            13,
+            13,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881006030.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,591 @@
+{
+   "ID":371,
+   "Name":"RBHOT CUSTOM PACK 15",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack15.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881004370,
+         "Name":"Aleph-0(Custom2)",
+         "Artist":"LeaF",
+         "Level":[
+            7,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004370.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004380,
+         "Name":"Innocent Walls",
+         "Artist":"TaQ",
+         "Level":[
+            5,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004380.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004390,
+         "Name":"Too Late Snow",
+         "Artist":"movies (moimoi × Xceon × Dai.)",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004390.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004400,
+         "Name":"KAMAITACHI",
+         "Artist":"DJ TECHNORCH fw. GUHROOVY",
+         "Level":[
+            5,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004400.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004410,
+         "Name":"夏色DIARY BisCoの思い出（＞▽＜）",
+         "Artist":"猫叉王子 feat.Qrispy Joybox",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004410.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004420,
+         "Name":"MERLIN",
+         "Artist":"REDALiCE",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004420.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004430,
+         "Name":"Rampage",
+         "Artist":"USAO",
+         "Level":[
+            7,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004430.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004450,
+         "Name":"D",
+         "Artist":"Eagle",
+         "Level":[
+            4,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004450.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004460,
+         "Name":"パピポペピプペパ",
+         "Artist":"P*Light",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004460.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004470,
+         "Name":"10,000,000,000",
+         "Artist":"TAG feat. 96",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004470.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004480,
+         "Name":"日天悦扇紊舞",
+         "Artist":"Akhuta",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004480.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004490,
+         "Name":"Selfish Sweet",
+         "Artist":"OSTER project feat. かなたん",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004490.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004500,
+         "Name":"鬼姫",
+         "Artist":"鬼の子合唱団",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004500.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004510,
+         "Name":"into the battlefield",
+         "Artist":"the wandering bard",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004510.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004520,
+         "Name":"CODE -CRiMSON-",
+         "Artist":"Shiron",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004520.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004530,
+         "Name":"Kick-ass Kung-fu Carnival",
+         "Artist":"t+pazolite",
+         "Level":[
+            7,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004530.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004540,
+         "Name":"Lyrith -迷宮リリス-",
+         "Artist":"ユメミド",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004540.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004550,
+         "Name":"Temple of Anubis",
+         "Artist":"Massive New Krew",
+         "Level":[
+            6,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004550.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004560,
+         "Name":"In Scottish Highlands",
+         "Artist":"Thomas Howard Lichtenstein",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004560.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004570,
+         "Name":"AMAZING MIGHTYYYY!!!!",
+         "Artist":"WAiKURO",
+         "Level":[
+            8,
+            11,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004570.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004580,
+         "Name":"神謳 -RESONANCE-",
+         "Artist":"SOUND HOLIC feat. Nana Takahashi Vs.GOD PHOENIX Prim",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004580.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004590,
+         "Name":"おこちゃま戦争",
+         "Artist":"ギガ/れをる",
+         "Level":[
+            5,
+            8,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004590.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004600,
+         "Name":"magnet",
+         "Artist":"minato",
+         "Level":[
+            6,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004610,
+         "Name":"六兆年と一夜物語 [EDIT]",
+         "Artist":"kemu feat.IA",
+         "Level":[
+            3,
+            6,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004610.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004620,
+         "Name":"アンハッピーリフレイン",
+         "Artist":"wowaka",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004620.png",
+         "PID":[
+            184
+         ]
+      },
+      {
+         "ID":881004640,
+         "Name":"水槽のクジラ",
+         "Artist":"テヅカ feat. 大西あみみ",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004640.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004650,
+         "Name":"Healing Vision",
+         "Artist":"DE-SIRE",
+         "Level":[
+            2,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004660,
+         "Name":"懐色坂",
+         "Artist":"VALLEYSTONE feat. かなたん",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004660.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004670,
+         "Name":"DON'T STOP ROCKIN'",
+         "Artist":"EB (aka EarBreaker)",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004680,
+         "Name":"聖者の息吹",
+         "Artist":"世阿弥 vs Tatsh",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004690,
+         "Name":"Awake,Speedy",
+         "Artist":"DJ MURASAME",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004690.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004700,
+         "Name":"WILD SIDE",
+         "Artist":"Tatsh",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004700.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004710,
+         "Name":"ミュージック・リボルバー",
+         "Artist":"世阿弥",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881004621,
+         "Name":"アンハッピーリフレイン",
+         "Artist":"wowaka",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881004620.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

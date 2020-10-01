@@ -1,0 +1,574 @@
+{
+   "ID":362,
+   "Name":"RBHOT CUSTOM PACK 6",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack6.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881002240,
+         "Name":"SON OF SUN",
+         "Artist":"Hosoe Shinji",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002240.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002250,
+         "Name":"Mulch",
+         "Artist":"Sampling Masters MEGA",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002250.png",
+         "PID":[
+            176
+         ]
+      },
+      {
+         "ID":881002260,
+         "Name":"Moon of Noon",
+         "Artist":"Sampling Masters MEGA",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002260.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002270,
+         "Name":"Wacky dance ethnic",
+         "Artist":"Sampling Masters MEGA",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002270.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002280,
+         "Name":"ROTTERDAM SHOGUN",
+         "Artist":"ABDI from ジャカルタファンクブラザーズ",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002280.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002290,
+         "Name":"SAY BAY",
+         "Artist":"P*Light",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002290.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002300,
+         "Name":"(This Is Not) The Angels",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002300.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002310,
+         "Name":"AsiaN distractive",
+         "Artist":"猫叉劇団",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002310.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002320,
+         "Name":"空澄みの鵯と",
+         "Artist":"あさき",
+         "Level":[
+            4,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002320.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002330,
+         "Name":"行き過ぎて後に",
+         "Artist":"あさき",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002330.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002340,
+         "Name":"極東史記",
+         "Artist":"あさき",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002340.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002350,
+         "Name":"この子の七つのお祝いに",
+         "Artist":"あさき",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002350.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002360,
+         "Name":"memento mori -intro-",
+         "Artist":"あさき",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002360.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200650,
+         "Name":"香港☆超特急Z",
+         "Artist":"明星有限公司",
+         "Level":[
+            5,
+            8,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200660,
+         "Name":"PARTY A GO GO☆",
+         "Artist":"サドルシューズ",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200660.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200670,
+         "Name":"DIAMOND CROSSING",
+         "Artist":"S-C-U vs L.E.D.",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200680,
+         "Name":"ライオン好き",
+         "Artist":"AKIRA YAMAOKA",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200690,
+         "Name":"Pop'n Xmas 2004～電子ノウタゴエ～",
+         "Artist":"strawberry barium''s''",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200690.png",
+         "PID":[
+            213
+         ]
+      },
+      {
+         "ID":882200700,
+         "Name":"IMPLANTATION(Custom1)",
+         "Artist":"TOMOSUKE",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200700.png",
+         "PID":[
+            214
+         ]
+      },
+      {
+         "ID":882200710,
+         "Name":"Water frame",
+         "Artist":"Hemi-you",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200720,
+         "Name":"TOMORROW",
+         "Artist":"nc ft. Dreamscanner",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200720.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200730,
+         "Name":"つぶやき魔法少女りむる",
+         "Artist":"DJ SHARPNEL feat. みらい",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200730.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200740,
+         "Name":"最強おばちゃん伝説",
+         "Artist":"Jimmy Weckl feat.ジュース・アクターズ",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200750,
+         "Name":"CHIP'N'RIDDIM",
+         "Artist":"L.E.D.-G",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200760,
+         "Name":"NOBUNAGA",
+         "Artist":"本能寺尊之",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200770,
+         "Name":"With your Smile",
+         "Artist":"Shoichiro Hirata plus Junko Hirata",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200780,
+         "Name":"REINCARNATION",
+         "Artist":"dj TAKA",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200780.png",
+         "PID":[
+            215
+         ]
+      },
+      {
+         "ID":882200790,
+         "Name":"BEAUTIFUL ANGEL",
+         "Artist":"DJ SWAN",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200790.png",
+         "PID":[
+            216
+         ]
+      },
+      {
+         "ID":882200791,
+         "Name":"BEAUTIFUL ANGEL",
+         "Artist":"DJ SWAN",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200790.png",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":882200781,
+         "Name":"REINCARNATION",
+         "Artist":"dj TAKA",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200780.png",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":882200701,
+         "Name":"IMPLANTATION(Custom1)",
+         "Artist":"TOMOSUKE",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200700.png",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":882200691,
+         "Name":"Pop'n Xmas 2004～電子ノウタゴエ～",
+         "Artist":"strawberry barium''s''",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200690.png",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":881002251,
+         "Name":"Mulch",
+         "Artist":"Sampling Masters MEGA",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002250.png",
+         "PID":[
+
+         ]
+      }
+   ],
+   "ExtNum":0
+}

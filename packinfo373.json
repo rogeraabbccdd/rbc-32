@@ -1,0 +1,319 @@
+{
+   "ID":373,
+   "Name":"RBHOT CUSTOM PACK 17",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack17.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881005030,
+         "Name":"THANK YOU FOR PLAYING",
+         "Artist":"SUPER STAR 満 -MITSURU-",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005030.png",
+         "PID":[
+            185
+         ]
+      },
+      {
+         "ID":881005050,
+         "Name":"Everlasting Resort",
+         "Artist":"SUPER STAR 満-MITSURU-",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005060,
+         "Name":"I will be back - オレは帰ってきた -",
+         "Artist":"SUPER STAR 満-MITSURU-",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005070,
+         "Name":"She is my wife",
+         "Artist":"SUPER STAR 満-MITSURU-",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005080,
+         "Name":"PULSE LASER",
+         "Artist":"ヒゲドライバー",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005090,
+         "Name":"I/O",
+         "Artist":"Ryu☆",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005100,
+         "Name":"花と、雪と、ドラムンベース。",
+         "Artist":"kanone feat. せんざい",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005110,
+         "Name":"Frey's Philosophy",
+         "Artist":"Powerless",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005160,
+         "Name":"Summer Holiday",
+         "Artist":"達見 恵 featured by 佐野宏晃",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005170,
+         "Name":"Plum",
+         "Artist":"肥塚良彦",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005170.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005180,
+         "Name":"ギタ・ドラ・jubeat大夏祭りのテーマ",
+         "Artist":"DNM盛り上げ隊",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005190,
+         "Name":"歌の翼",
+         "Artist":"あーたん",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005200,
+         "Name":"Riot of Color",
+         "Artist":"TAG",
+         "Level":[
+            7,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005210,
+         "Name":"QQQ",
+         "Artist":"TaQ",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005220,
+         "Name":"Watch Out Pt.2",
+         "Artist":"DJ Mass MAD Izm* VS.DJ Yoshitaka",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005220.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881005230,
+         "Name":"TWO-TORIAL(Custom2)",
+         "Artist":"PHQUASE vs DJ TOTTO",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005230.png",
+         "PID":[
+            186
+         ]
+      },
+      {
+         "ID":881005231,
+         "Name":"TWO-TORIAL(Custom2)",
+         "Artist":"PHQUASE vs DJ TOTTO",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005230.png",
+         "PID":[
+            186
+         ]
+      },
+      {
+         "ID":881005031,
+         "Name":"THANK YOU FOR PLAYING",
+         "Artist":"SUPER STAR 満 -MITSURU-",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881005030.png",
+         "PID":[
+            186
+         ]
+      }
+   ],
+   "ExtNum":0
+}

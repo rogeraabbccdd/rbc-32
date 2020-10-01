@@ -1,0 +1,540 @@
+{
+   "ID":366,
+   "Name":"RBHOT CUSTOM PACK 10",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack10.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881003090,
+         "Name":"Nhelv",
+         "Artist":"Silentroom",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003100,
+         "Name":"Berry Go!!",
+         "Artist":"Freezer feat. 妃苺",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003110,
+         "Name":"もぺもぺ",
+         "Artist":"リーフ",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003120,
+         "Name":"ENERGY SYNERGY MATRIX",
+         "Artist":"Tanchiky",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003130,
+         "Name":"防人恋歌",
+         "Artist":"Ax feat.夏川陽子",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003140,
+         "Name":"恋詠桜～オモイヨシノ～",
+         "Artist":"loos feat. 柊莉杏",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003140.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003150,
+         "Name":"A",
+         "Artist":"D.J.Amuro",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003150.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003160,
+         "Name":"Go Berzerk",
+         "Artist":"Scott Brown",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003170,
+         "Name":"恋愛観測",
+         "Artist":"NU-KO",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003170.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003180,
+         "Name":"Gimme a Big Beat",
+         "Artist":"kors k",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003190,
+         "Name":"ANDROMEDA",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003200,
+         "Name":"VANESSA",
+         "Artist":"朱雀",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003210,
+         "Name":"THE SAFARI",
+         "Artist":"Lion Musashi",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003210.png",
+         "PID":[
+            182
+         ]
+      },
+      {
+         "ID":882201120,
+         "Name":"NEW GENERATION -もう、お前しか見えない-",
+         "Artist":"SUPER STAR 満-MITSURU-",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201120.png",
+         "PID":[
+            224
+         ]
+      },
+      {
+         "ID":882201130,
+         "Name":"Forever Young",
+         "Artist":"Rookie.F",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201140,
+         "Name":"ALIEN TEMPLE",
+         "Artist":"PINK PONG",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201140.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201150,
+         "Name":"冬椿 ft. Kanae Asaba",
+         "Artist":"Xceon",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201150.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201160,
+         "Name":"ウルトラハイヒール〜I JUST WANNA TELL YOU",
+         "Artist":"dj TAKA feat.ANGEL",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201170,
+         "Name":"SEDUCTION",
+         "Artist":"nc ft. FINALFORCE",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201170.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201180,
+         "Name":"SEDUCTION (Vocal Remix)",
+         "Artist":"NC feat. NRG Factory",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201190,
+         "Name":"SANA MOLLETE NE ENTE -B.L.T. STYLE-",
+         "Artist":"Togo Project feat. Sana",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201200,
+         "Name":"route 80s",
+         "Artist":"sampling masters MEGA",
+         "Level":[
+            2,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201210,
+         "Name":"HIGH",
+         "Artist":"RAM",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201220,
+         "Name":"Over The Night",
+         "Artist":"good-cool",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201220.png",
+         "PID":[
+            225
+         ]
+      },
+      {
+         "ID":882201230,
+         "Name":"Warriors Aboot",
+         "Artist":"RoughSketch vs MAD CHILD",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201230.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201240,
+         "Name":"Be in my paradise",
+         "Artist":"JJ COMPANY",
+         "Level":[
+            1,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201240.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201250,
+         "Name":"Maser! Maser!",
+         "Artist":"機龍",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201250.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201260,
+         "Name":"Boundary",
+         "Artist":"SPARKER",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201260.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201221,
+         "Name":"Over The Night",
+         "Artist":"good-cool",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201220.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201121,
+         "Name":"NEW GENERATION -もう、お前しか見えない-",
+         "Artist":"SUPER STAR 満-MITSURU-",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003211,
+         "Name":"THE SAFARI",
+         "Artist":"Lion Musashi",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003210.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

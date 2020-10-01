@@ -1,0 +1,217 @@
+{
+   "ID":351,
+   "Name":"RBHOT AC SPECIAL PACK",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"acPack0.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":889201020,
+         "Name":"Survival games (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"889201020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":890202020,
+         "Name":"Far Away (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"890202020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":800210050,
+         "Name":"LOVE CHECK(Hidden Ver.)",
+         "Artist":"Bradberry Orchestra",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"800210050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":800201090,
+         "Name":"Valanga 2017(Hidden Ver.)",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"800201090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":891204010,
+         "Name":"Wow Wow VENUS (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"891204010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":891206090,
+         "Name":"Chu☆Chu☆Tonight (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"891206090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":803213090,
+         "Name":"六兆年と一夜物語(Hidden Ver.)",
+         "Artist":"kemu feat.IA",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"803213090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":891298000,
+         "Name":"Brand New World (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"891298000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":891298010,
+         "Name":"Survival Games -ZEUS Mix- (DiGiTAL LiVE Ver.)",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"891298010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208080,
+         "Name":"SERVI(Hidden Ver.)",
+         "Artist":"Des-ROW vibes Dr.Honda",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881500000,
+         "Name":"Eira",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            14,
+            14,
+            14
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881500000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881500001,
+         "Name":"Towards The Horizon",
+         "Artist":"かめりあ",
+         "Level":[
+            13,
+            13,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881500001.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,421 @@
+{
+   "ID":369,
+   "Name":"RBHOT CUSTOM PACK 13",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack13.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881003700,
+         "Name":"ルミナスデイズ",
+         "Artist":"ここなつ",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003700.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003710,
+         "Name":"風鈴花火",
+         "Artist":"劇団レコード feat.結良まり",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003720,
+         "Name":"星座が恋した瞬間を。",
+         "Artist":"DJ TOTTO feat.MarL",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003720.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003730,
+         "Name":"Life is beautiful",
+         "Artist":"猫叉Master",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003730.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003740,
+         "Name":"Rejoin",
+         "Artist":"HuΣeR feat.PON",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003740.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003750,
+         "Name":"SUPER SUMMER SALE",
+         "Artist":"U1 overground",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003750.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003760,
+         "Name":"Puberty Dysthymia",
+         "Artist":"person09",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003760.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003770,
+         "Name":"Prey",
+         "Artist":"Dustup",
+         "Level":[
+            4,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003770.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003780,
+         "Name":"In the Blackest Den",
+         "Artist":"Bulluvegola",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003780.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003790,
+         "Name":"Scharfrichter",
+         "Artist":"Ashemu",
+         "Level":[
+            7,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003790.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003800,
+         "Name":"NNRT",
+         "Artist":"Levaslater",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003800.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003810,
+         "Name":"The Limbo",
+         "Artist":"STN",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003810.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003820,
+         "Name":"聖人の塔",
+         "Artist":"Beridzebeth",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003820.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003830,
+         "Name":"YAKSHA",
+         "Artist":"Neulakyussra",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003830.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003840,
+         "Name":"紅の空",
+         "Artist":"Rita",
+         "Level":[
+            3,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003840.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003850,
+         "Name":"GOTHIC SYSTEM",
+         "Artist":"DJ TECHNORCH",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003850.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003860,
+         "Name":"bloomin' feeling",
+         "Artist":"Ryu☆",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003860.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003870,
+         "Name":"大宇宙ステージ(Custom2)",
+         "Artist":"黒魔",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003870.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003880,
+         "Name":"ΑΩ",
+         "Artist":"BlackY",
+         "Level":[
+            7,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003880.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003890,
+         "Name":"Preserved Valkyria",
+         "Artist":"ぺのれり",
+         "Level":[
+            5,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003890.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003900,
+         "Name":"XyHATTE",
+         "Artist":"cosMo＠暴走Ultimate",
+         "Level":[
+            7,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003910,
+         "Name":"Blastix Riotz",
+         "Artist":"かめりあ as “Bang Riot”",
+         "Level":[
+            6,
+            10,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003910.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201610,
+         "Name":"Stargazer",
+         "Artist":"Lime",
+         "Level":[
+            2,
+            4,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201610.png",
+         "PID":[
+            232
+         ]
+      },
+      {
+         "ID":882201611,
+         "Name":"Stargazer",
+         "Artist":"Lime",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201610.png",
+         "PID":[
+
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,591 @@
+{
+   "ID":361,
+   "Name":"RBHOT CUSTOM PACK 5",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack5.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881002020,
+         "Name":"Glitter Flatter Scatter",
+         "Artist":"Project B-",
+         "Level":[
+            5,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002030,
+         "Name":"M.D.Injection",
+         "Artist":"Project B-",
+         "Level":[
+            4,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002040,
+         "Name":"Sarutobi Champion is 拙者",
+         "Artist":"Project B-",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002050,
+         "Name":"超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+         "Artist":"Project B-",
+         "Level":[
+            6,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002050.png",
+         "PID":[
+            175
+         ]
+      },
+      {
+         "ID":881002070,
+         "Name":"言ノ葉遊戯",
+         "Artist":"S!N·高橋菜々×ひとしずく·やま△",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002080,
+         "Name":"春菊",
+         "Artist":"SUWAKI",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002090,
+         "Name":"Rock Da House",
+         "Artist":"M-Project fw. GUHROOVY",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002100,
+         "Name":"So Fabulous !!",
+         "Artist":"HHH",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002110,
+         "Name":"Foolish Hero",
+         "Artist":"lapix",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002120,
+         "Name":"Hyper Active",
+         "Artist":"HiTECH NINJA",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002130,
+         "Name":"MODELISTA",
+         "Artist":"HiTECH NINJA",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002140,
+         "Name":"Amazing Mirage",
+         "Artist":"lapix",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002140.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002150,
+         "Name":"Inner Spirit",
+         "Artist":"lapix",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002150.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002160,
+         "Name":"DOMINION",
+         "Artist":"L.E.D.-G",
+         "Level":[
+            6,
+            10,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002160.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002170,
+         "Name":"春風ブローインウィンド",
+         "Artist":"TAG",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002170.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002180,
+         "Name":"Claiomh Solais",
+         "Artist":"DJ Yoshitaka VS S.S.D.",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002180.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002190,
+         "Name":"紫陽花 -AZISAI-",
+         "Artist":"Camellia Vs. Expander",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002190.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002200,
+         "Name":"銀梅花",
+         "Artist":"影翔鼓舞",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002200.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002210,
+         "Name":"ULTRA HAPPY MEGAMIX",
+         "Artist":"DJ Genki",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002210.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002220,
+         "Name":"prop the world",
+         "Artist":"S-C-U",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002220.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002230,
+         "Name":"閃鋼のブリューナク",
+         "Artist":"sasakure.UK",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002230.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881100540,
+         "Name":"Calamity Fortune",
+         "Artist":"LeaF",
+         "Level":[
+            5,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881100540.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200550,
+         "Name":"PURE DREAM",
+         "Artist":"PINK PONG",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200550.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200560,
+         "Name":"TWO-TORIAL(Custom1)",
+         "Artist":"PHQUASE vs DJ TOTTO",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200560.png",
+         "PID":[
+            212
+         ]
+      },
+      {
+         "ID":882200570,
+         "Name":"CRYMSON",
+         "Artist":"RAM",
+         "Level":[
+            4,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200570.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200580,
+         "Name":"Don't forget",
+         "Artist":"中山 結衣",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200580.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200590,
+         "Name":"突撃！ガラスのニーソ姫！(Custom1)",
+         "Artist":"山本椛 (monotone)",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200590.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200600,
+         "Name":"Air Heroes",
+         "Artist":"Darwin",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200610,
+         "Name":"jewelry girl*",
+         "Artist":"jun",
+         "Level":[
+            3,
+            7,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200610.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200620,
+         "Name":"800nm",
+         "Artist":"Another Infinity (Ryu☆×Starving Trancer)",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200620.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200630,
+         "Name":"Indigo Vision (full flavour hide around mix)",
+         "Artist":"TaQ",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200630.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200640,
+         "Name":"Wings of an Angel (Fly With Me)",
+         "Artist":"J-Mi & Midi-D",
+         "Level":[
+            4,
+            6,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200640.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200561,
+         "Name":"TWO-TORIAL(Custom1)",
+         "Artist":"PHQUASE vs DJ TOTTO",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200560.png",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":881002051,
+         "Name":"超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+         "Artist":"Project B-",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002050.png",
+         "PID":[
+
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,455 @@
+{
+   "ID":364,
+   "Name":"RBHOT CUSTOM PACK 8",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack8.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881002630,
+         "Name":"YELLOW FROG from Steel Chronicle",
+         "Artist":"劇団レコード",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002630.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002640,
+         "Name":"MAD ATTACK",
+         "Artist":"HALFBY",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002640.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002650,
+         "Name":"「ここなつ☆」は夢のカタチ",
+         "Artist":"ここなつ Produced by A than_Lily",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002660,
+         "Name":"Sky High",
+         "Artist":"Cuvelia",
+         "Level":[
+            7,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002660.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002670,
+         "Name":"Come to Life",
+         "Artist":"ARM (IOSYS) feat. Nicole Curry",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002680,
+         "Name":"Astrogazer",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002690,
+         "Name":"Cosy Catastrophe",
+         "Artist":"SYUNN",
+         "Level":[
+            6,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002690.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002700,
+         "Name":"Neutrino",
+         "Artist":"HuΣeR",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002700.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881002710,
+         "Name":"ENDYMION(Custom2)",
+         "Artist":"fallen shepherd ft. RabbiTon Strings",
+         "Level":[
+            8,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881002710.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881029960,
+         "Name":"兵庫県議 政務費不正疑惑 泣き乱しながら潔白主張",
+         "Artist":"野々村竜太郎",
+         "Level":[
+            5,
+            8,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881029960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881029970,
+         "Name":"做個文明中國人",
+         "Artist":"呉鎮宇 張達明 黄子華",
+         "Level":[
+            8,
+            8,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881029970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881029980,
+         "Name":"武士♂之魂",
+         "Artist":"沢野螳螂",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881029980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881029990,
+         "Name":"Bad Apple!! (影絵ver.)",
+         "Artist":"Masayoshi Minoshima feat. nomico",
+         "Level":[
+            1,
+            1,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881029990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200900,
+         "Name":"DJ BATTLE",
+         "Artist":"",
+         "Level":[
+            5,
+            7,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200900.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200910,
+         "Name":"DJ-BATTLE (JODLER MIX)",
+         "Artist":"DJ simon",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200910.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200920,
+         "Name":"DRAGONLADY",
+         "Artist":"Nankumo",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200920.png",
+         "PID":[
+            219
+         ]
+      },
+      {
+         "ID":882200930,
+         "Name":"250bpm",
+         "Artist":"AKIRA YAMAOKA",
+         "Level":[
+            4,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200930.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200940,
+         "Name":"とろぴかる倶楽部",
+         "Artist":"HALFBY",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200940.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200950,
+         "Name":"Firestorm",
+         "Artist":"ETIA.",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200950.png",
+         "PID":[
+            220
+         ]
+      },
+      {
+         "ID":882200960,
+         "Name":"We Go Down",
+         "Artist":"DJ Genki feat. SHIN from HYPERNOVA With 三代",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200960.png",
+         "PID":[
+            221
+         ]
+      },
+      {
+         "ID":882200970,
+         "Name":"BELOBOG",
+         "Artist":"純白のIVORY",
+         "Level":[
+            5,
+            9,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200970.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200980,
+         "Name":"JOURNEY TO “FANTASICA”",
+         "Artist":"S.S.D.FANTASICA feat. EMI with ARATA",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200980.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200990,
+         "Name":"昭和企業戦士荒山課長",
+         "Artist":"AKIRA YAMAOKA",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200990.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200961,
+         "Name":"We Go Down",
+         "Artist":"DJ Genki feat. SHIN from HYPERNOVA With 三代",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200960.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200951,
+         "Name":"Firestorm",
+         "Artist":"ETIA.",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200950.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882200921,
+         "Name":"DRAGONLADY",
+         "Artist":"Nankumo",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882200920.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}

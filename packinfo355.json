@@ -1,0 +1,5266 @@
+{
+   "ID":355,
+   "Name":"RBHOT AC groovin'!! PACK",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"acPack4.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":804200060,
+         "Name":"SCHWARZSCHILD FIELD",
+         "Artist":"L.E.D.",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804200060.png",
+         "PID":[
+            58
+         ]
+      },
+      {
+         "ID":804201060,
+         "Name":"Cattleya",
+         "Artist":"Sota Fujimori 2nd Season",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804201060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804204010,
+         "Name":"三毛猫DANCE",
+         "Artist":"小野秀幸",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804204010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804205020,
+         "Name":"onslaught",
+         "Artist":"PHQUASE",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804205020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804205070,
+         "Name":"Eclipse Zero",
+         "Artist":"tūmahaB",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804205070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804206010,
+         "Name":"DEADLOCK -Out Of Reach-",
+         "Artist":"U1 undefined behavior",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804206010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208000,
+         "Name":"Thank You Merry Christmas",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208010,
+         "Name":"伐折羅-vajra-",
+         "Artist":"DJ TOTTO VS 兎々",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208040,
+         "Name":"十界",
+         "Artist":"あさき",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208060,
+         "Name":"カーテンコール・メモリーズ",
+         "Artist":"DJ TOTTO & Qrispy Joybox",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208060.png",
+         "PID":[
+            65
+         ]
+      },
+      {
+         "ID":804210020,
+         "Name":"Vitalization",
+         "Artist":"水樹奈々",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210030,
+         "Name":"カラフル",
+         "Artist":"ClariS",
+         "Level":[
+            1,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210040,
+         "Name":"Aoi",
+         "Artist":"サカナクション",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210050,
+         "Name":"My VOICE",
+         "Artist":"ファンキー加藤",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210060,
+         "Name":"テレビ映画「吉宗評判記暴れん坊将軍」BGM",
+         "Artist":"",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210070,
+         "Name":"Challenge the GAME",
+         "Artist":"REDMAN",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210080,
+         "Name":"紅蓮の弓矢",
+         "Artist":"Linked Horizon",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804210090,
+         "Name":"W.W.D",
+         "Artist":"でんぱ組.inc",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804210090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211000,
+         "Name":"The Reluctant Heroes",
+         "Artist":"澤野 弘之",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211020,
+         "Name":"ラブギガヘルツ",
+         "Artist":"末広アンテナ",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211030,
+         "Name":"放課後ストライド(Groovin Ver.)",
+         "Artist":"Last Note.",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211040,
+         "Name":"天ノ弱(Groovin Ver.)",
+         "Artist":"164",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211050,
+         "Name":"いーあるふぁんくらぶ(Groovin Ver.)",
+         "Artist":"みきとP",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211060,
+         "Name":"On My Wings(Groovin Ver.)",
+         "Artist":"kors k",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211070,
+         "Name":"Force of mind",
+         "Artist":"The 4th(kors k vs Ryu☆)",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804211090,
+         "Name":"幻想系世界修復少女",
+         "Artist":"Last Note.",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804211090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212000,
+         "Name":"全速力協奏曲",
+         "Artist":"Omoi",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212010,
+         "Name":"過食性:アイドル症候群(Groovin Ver.)",
+         "Artist":"スズム",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212020,
+         "Name":"ロストワンの号哭(Groovin Ver.)",
+         "Artist":"Neru",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212020.png",
+         "PID":[
+            66
+         ]
+      },
+      {
+         "ID":804212030,
+         "Name":"クノイチでも恋がしたい(Groovin Ver.)",
+         "Artist":"みきとP feat.松下",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212050,
+         "Name":"しんでしまうとはなさけない!",
+         "Artist":"ワンダフル☆オポチュニティ！ feat. kradness＆れをる",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212060,
+         "Name":"H.U.D.01 (BEMANI Mix)",
+         "Artist":"Ryu☆",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212070,
+         "Name":"sukha (雷龍 BEMANI Mix)",
+         "Artist":"Ryu☆",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212090,
+         "Name":"EZ DO DANCE",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213000,
+         "Name":"レット・イット・ゴー～ありのままで～",
+         "Artist":"",
+         "Level":[
+            1,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213010,
+         "Name":"IGNITE",
+         "Artist":"藍井エイル",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213020,
+         "Name":"FLAT adding Yuuki Ozaki(from Galileo Galilei)",
+         "Artist":"livetune",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213030,
+         "Name":"炎と森のカーニバル",
+         "Artist":"SEKAI NO OWARI",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213040,
+         "Name":"FUJIMORI -祭- FESTIVAL(EDP Live Mix)",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804213090,
+         "Name":"Seventh Heaven(Groovin Ver.)",
+         "Artist":"Ryu☆",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804213090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804214020,
+         "Name":"I'm On Fire",
+         "Artist":"kors k",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804214020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804220010,
+         "Name":"Idola",
+         "Artist":"iconoclasm feat.GUMI",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804220010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804220070,
+         "Name":"女言葉の消失",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804220070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804220080,
+         "Name":"全力 SPECIAL VACATION!! ～限りある休日～",
+         "Artist":"DJ GW",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804220080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804220090,
+         "Name":"In The Breeze",
+         "Artist":"96 & Sota ft. Mayumi Morinaga",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804220090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804221000,
+         "Name":"Peragro",
+         "Artist":"Akhutaとオマツリワッショイズ",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804221000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804221010,
+         "Name":"BELLS",
+         "Artist":"楽園の囚人",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804221010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804221020,
+         "Name":"夏色DIARY 懐色DIEARY",
+         "Artist":"猫叉王子 feat.矢作川",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804221020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804290090,
+         "Name":"蛹",
+         "Artist":"あさき",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804290090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804291000,
+         "Name":"ツミナガラ...と彼女は謂ふ",
+         "Artist":"あさき",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804291000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804291060,
+         "Name":"Strobe♡Girl",
+         "Artist":"colate",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804291060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804291070,
+         "Name":"憂恋☆アクティベーション",
+         "Artist":"u-z",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804291070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804291080,
+         "Name":"City Edge",
+         "Artist":"winddrums",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804291080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804293040,
+         "Name":"INSOMNIA",
+         "Artist":"ジャカルタファンクブラザーズ",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804293040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296000,
+         "Name":"HELL SCAPER",
+         "Artist":"L.E.D.LIGHT-G",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804296000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296040,
+         "Name":"Scars of FAUNA",
+         "Artist":"猫叉Master",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804296040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296050,
+         "Name":"VOIDDD",
+         "Artist":"Des-ROW feat.Kevin Vecchione",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804296050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804297010,
+         "Name":"Todestrieb",
+         "Artist":"Rche",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804297020,
+         "Name":"地の記 獄編",
+         "Artist":"あさき",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804297030,
+         "Name":"Sonne",
+         "Artist":"あさき",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804297070,
+         "Name":"Spica",
+         "Artist":"D.JW",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297070.png",
+         "PID":[
+            75
+         ]
+      },
+      {
+         "ID":804297090,
+         "Name":"PULSE",
+         "Artist":"319",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298000,
+         "Name":"GRADIUSIC CYBER",
+         "Artist":"TAKA",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298010,
+         "Name":"Nova emoção",
+         "Artist":"Berimbau '66",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298020,
+         "Name":"踊るフィーバーロボ",
+         "Artist":"ダニエル＆eimy と よしくん",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298020.png",
+         "PID":[
+            76
+         ]
+      },
+      {
+         "ID":804298030,
+         "Name":"♥Love² シュガ→ ♥",
+         "Artist":"dj TAKA feat.のりあ",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298030.png",
+         "PID":[
+            77
+         ]
+      },
+      {
+         "ID":804298040,
+         "Name":"Lucy",
+         "Artist":"ELE BLOCK",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298040.png",
+         "PID":[
+            78
+         ]
+      },
+      {
+         "ID":804298050,
+         "Name":"GUILTY",
+         "Artist":"D.J.SETUP",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298050.png",
+         "PID":[
+            79
+         ]
+      },
+      {
+         "ID":804298060,
+         "Name":"V",
+         "Artist":"TAKA",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298060.png",
+         "PID":[
+            80
+         ]
+      },
+      {
+         "ID":804298080,
+         "Name":"FUJIMORI -祭- FESTIVAL -祭りだ! Sota Fujimori Mix-",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298090,
+         "Name":"JET WORLD (Ryu☆Remix)",
+         "Artist":"泉 陸奥彦 Remixed by Ryu☆",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299010,
+         "Name":"男々道 -otoko PHQ remix-",
+         "Artist":"Des-ROW・組 Remixed by PHQUASE （Gt.かめりあ）",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299020,
+         "Name":"パ→ピ→プ→Yeah!",
+         "Artist":"ヒゲドライバー join. shully & Nimo",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299030,
+         "Name":"爆なな☆てすとロイヤー",
+         "Artist":"ARM feat.ななひら",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299040,
+         "Name":"童話回廊",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299050,
+         "Name":"音楽",
+         "Artist":"弁士カンタビレオ",
+         "Level":[
+            5,
+            8,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299060,
+         "Name":"V2",
+         "Artist":"TAKA",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299060.png",
+         "PID":[
+            81
+         ]
+      },
+      {
+         "ID":804299070,
+         "Name":"ΔMAX",
+         "Artist":"DM Ashura",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299080,
+         "Name":"ヤサイマシ☆ニンニクアブラオオメ",
+         "Artist":"azuma feat. ななひら",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299100,
+         "Name":"ZERO-ONE",
+         "Artist":"Mr.T",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299100.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299110,
+         "Name":"MAKE A JAM!",
+         "Artist":"U1",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299110.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299120,
+         "Name":"Ping×Pong×Dash",
+         "Artist":"パーキッツ",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299120.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299130,
+         "Name":"DAY DREAM",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299130.png",
+         "PID":[
+            82
+         ]
+      },
+      {
+         "ID":804300010,
+         "Name":"My HERO",
+         "Artist":"chairmans",
+         "Level":[
+            1,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300020,
+         "Name":"Everybody Say EDOGAWA",
+         "Artist":"EDOist",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300030,
+         "Name":"HAPPY☆きたかた",
+         "Artist":"KIRA☆GIRL",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300040,
+         "Name":"ルシャナの気持ち",
+         "Artist":"Le Siana",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300050,
+         "Name":"my cosmic world",
+         "Artist":"silQ",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300060,
+         "Name":"Dong! Dong!",
+         "Artist":"Star☆T",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300070,
+         "Name":"マーメイド",
+         "Artist":"T!P",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300080,
+         "Name":"ドリームキャッチャー",
+         "Artist":"アイくるガールズ",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804300090,
+         "Name":"僕は君に恋をした",
+         "Artist":"アイドル教室",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804300090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301000,
+         "Name":"Field on!",
+         "Artist":"サザン☆クロス",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301010,
+         "Name":"LUCKY-YO!!",
+         "Artist":"だいやぁ☆もんど",
+         "Level":[
+            1,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301020,
+         "Name":"Boom! Boom! Miracle Emotion",
+         "Artist":"ひろしま MAPLE★S",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301030,
+         "Name":"CAPTIVE",
+         "Artist":"フルーティー♡",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301040,
+         "Name":"We are チャリンコエンジェルス",
+         "Artist":"浦安マリンエンジェルス",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301050,
+         "Name":"乙女の真骨頂",
+         "Artist":"乙女の純情",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301060,
+         "Name":"川崎純情音頭",
+         "Artist":"川崎純情小町☆",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301070,
+         "Name":"Determination",
+         "Artist":"柊木りお",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301080,
+         "Name":"瞬間 I LOVE YOU",
+         "Artist":"H&A.",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804301090,
+         "Name":"A to Z",
+         "Artist":"OSAKA翔GANGS",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804301090.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302000,
+         "Name":"ザッツ!KAIYODO",
+         "Artist":"はちきんガールズ",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302010,
+         "Name":"MITOれて！いばらきっしゅだ～りん",
+         "Artist":"水戸ご当地アイドル(仮)",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302020,
+         "Name":"LoveLove DokiDoki",
+         "Artist":"水戸ご当地アイドル(仮)",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302030,
+         "Name":"Che Che Chelip～魔法のコトバ～",
+         "Artist":"Chelip",
+         "Level":[
+            1,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302040,
+         "Name":"らいらら",
+         "Artist":"KRD8",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302050,
+         "Name":"HeartLatte",
+         "Artist":"TnyGinA",
+         "Level":[
+            3,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302060,
+         "Name":"キライじゃないのぉ",
+         "Artist":"まなみのりさ",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804302070,
+         "Name":"ラブラブキュートなハピハピサンデー",
+         "Artist":"Lisapyon♡",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804302070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804320010,
+         "Name":"大藝術家 -The Great Artist-",
+         "Artist":"蔡依林 -Jolin Tsai-",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804320010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804320020,
+         "Name":"全城熱愛 -Feel the Love-",
+         "Artist":"羅志祥 -Show Lo-",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804320020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804320030,
+         "Name":"電司 -DANCE-",
+         "Artist":"LOLLIPOP F",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804320030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804320040,
+         "Name":"Don't stop the music",
+         "Artist":"Dream Girls",
+         "Level":[
+            1,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804320040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804320050,
+         "Name":"嗶嗶嗶 -Bi Bi Bi-",
+         "Artist":"謝金燕 -Jeannie Hsieh-",
+         "Level":[
+            2,
+            5,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804320050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299000,
+         "Name":"HELL SCAPER(kors k Remix)",
+         "Artist":"L.E.D.LIGHT-G Remixed by kors k",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299000.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":892290010,
+         "Name":"smooooch・∀・(Groovin' Ver.)",
+         "Artist":"kors k",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"892290010.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":892290050,
+         "Name":"サヨナラ・ヘヴン(Groovin' Ver.)",
+         "Artist":"猫叉Master",
+         "Level":[
+            1,
+            3,
+            5
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"892290050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":892290080,
+         "Name":"Elisha(Groovin' Ver.)",
+         "Artist":"DJ YOSHITAKA",
+         "Level":[
+            4,
+            8,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"892290080.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":893213020,
+         "Name":"セツナトリップ(Groovin' Ver.)",
+         "Artist":"Last Note. feat. GUMI",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"893213020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000961,
+         "Name":"COSMIC COWGIRL",
+         "Artist":"Toshio Sakurai",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000961_TGWkw1.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000961_sidx_nWo2v.m4a&id=100000961&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000961_art_kslIU.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000962,
+         "Name":"BOBBY SUE AND SKINNY JIM",
+         "Artist":"Raj Ramayya",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000962_KHgjaS.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000962_sidx_nZhyKM.m4a&id=100000962&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000962_art_HWrF.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000963,
+         "Name":"男々道",
+         "Artist":"Des-ROW･組",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000963_vRG4Kp.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000963_sidx_75Wh.m4a&id=100000963&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000963_art_n5E.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000964,
+         "Name":"Spica",
+         "Artist":"D.JW",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000964_d2a4hy.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000964_sidx_QOm2t.m4a&id=100000964&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000964_art_f8VgJW.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000949,
+         "Name":"明鏡止水",
+         "Artist":"TOMOSUKE feat.あさき",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000949_TbJ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000949_sidx_00yO6.m4a&id=100000949&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000949_art_J6v.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000950,
+         "Name":"Pink Rose",
+         "Artist":"Kiyommy+Seiya",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000950_sW8.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000950_sidx_0oa.m4a&id=100000950&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000950_art_zqiH.png",
+         "PID":[
+            73
+         ]
+      },
+      {
+         "ID":100000951,
+         "Name":"sync",
+         "Artist":"OutPhase (TaQ/dj TAKA)",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000951_MoSw.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000951_sidx_p3fQg.m4a&id=100000951&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000951_art_IxH.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000952,
+         "Name":"Beyond The Earth",
+         "Artist":"猫叉Master",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000952_XmmtyR.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000952_sidx_ZSA.m4a&id=100000952&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000952_art_MTnw.png",
+         "PID":[
+            74
+         ]
+      },
+      {
+         "ID":100000945,
+         "Name":"Flash Back 90's",
+         "Artist":"kors k as disconation",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000945_tyq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000945_sidx_PBa.m4a&id=100000945&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000945_art_GNb.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000946,
+         "Name":"White Eve",
+         "Artist":"さな",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000946_Szn.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000946_sidx_MCya.m4a&id=100000946&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000946_art_54F8P.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000947,
+         "Name":"HELL SCAPER",
+         "Artist":"L.E.D.LIGHT-G",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000947_0ajHvv.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000947_sidx_xMC0a0.m4a&id=100000947&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000947_art_qfy9XU.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000948,
+         "Name":"starmine",
+         "Artist":"Ryu☆",
+         "Level":[
+            5,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000948_im5pT.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000948_sidx_Kym5j.m4a&id=100000948&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000948_art_yBA.png",
+         "PID":[
+            72
+         ]
+      },
+      {
+         "ID":100000791,
+         "Name":"サクラヨゾラ",
+         "Artist":"Xceon feat.Mayumi Morinaga",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000791_UilsU.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000791_sidx_gzGn.m4a&id=100000791&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/sakurayozora/id922880796?i=922880826",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000791_art_Duv.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000792,
+         "Name":"licca",
+         "Artist":"Qrispy Joybox",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000792_w7fppN.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000792_sidx_whoJ.m4a&id=100000792&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/licca/id922880796?i=922880814",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000792_art_l2CL.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000793,
+         "Name":"VOLTEXES II",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000793_49Yg.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000793_sidx_yWVs7M.m4a&id=100000793&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/voltexes-ii/id922880796?i=922880839",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000793_art_EsjH.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000794,
+         "Name":"Russian Snowy Dance",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000794_mmlH.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000794_sidx_f8vuX.m4a&id=100000794&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/russian-snowy-dance/id431828406?i=431828431&mt=1&app=music&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000794_art_OVMPwp.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000787,
+         "Name":"LIGHTNING THUNDERBOLT",
+         "Artist":"TAG",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000787_kfUJX.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000787_sidx_klG.m4a&id=100000787&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/lightning-thunderbolt/id922880796?i=922880818",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000787_art_tOYqu.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000788,
+         "Name":"Rush!!(Remix!!)",
+         "Artist":"kors k feat.吉河順央",
+         "Level":[
+            3,
+            6,
+            8
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000788_Ht8ZV.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000788_sidx_INJ4OV.m4a&id=100000788&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/rush!!-remix!!/id922880796?i=922880838",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000788_art_UTJ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000789,
+         "Name":"Sakura Mirage",
+         "Artist":"Ryu☆",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000789_1vFJ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000789_sidx_XlAU.m4a&id=100000789&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/sakura-mirage/id922880796?i=922880841",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000789_art_xc0Q6.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000783,
+         "Name":"Get Over!",
+         "Artist":"DJ NAGAI feat. Ayumi Nomiya",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000783_c21tW.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000783_sidx_mz7S15.m4a&id=100000783&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/get-over!/id922880796?i=922880820&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000783_art_1xY.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000784,
+         "Name":"アヴァロンの丘",
+         "Artist":"猫叉Master",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000784_EYhU.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000784_sidx_sgv.m4a&id=100000784&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/avu-aronno-qiu/id922880796?i=922880840&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000784_art_pjzHd.png",
+         "PID":[
+            60
+         ]
+      },
+      {
+         "ID":100000775,
+         "Name":"ラデツキー行進曲 ～ Radetzky March, Op. 228 ～",
+         "Artist":"Rb. Conductor III",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000775_GV4vmH.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000775_sidx_DKuKbt.m4a&id=100000775&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/radetsuki-xing-jin-qu-radetzky/id922880796?i=922880857&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000775_art_ijnMy9.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000776,
+         "Name":"待宵草",
+         "Artist":"CULTVOICE by S.S.D.PRODUCTS",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000776_V2U.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000776_sidx_uIK.m4a&id=100000776&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/dai-xiao-cao/id922880796?i=922880823&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000776_art_NIJOG.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000772,
+         "Name":"ハンガリー舞曲 第5番 ～ Hungarian Dances No. 5 ～",
+         "Artist":"Rb. Conductor II",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000772_Lfxxx.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000772_sidx_JsKxJU.m4a&id=100000772&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/hangari-wu-qu-di5fan-hungarian/id922880796?i=922880852&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000772_art_v3TX.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000773,
+         "Name":"ハピ恋☆らぶりぃタイム!!",
+         "Artist":"DJ TOTTO feat.anporin",
+         "Level":[
+            2,
+            6,
+            8
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000773_0W9.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000773_sidx_0QBLN.m4a&id=100000773&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/hapi-lian-raburyitaimu!!/id922880796?i=922880815&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000773_art_f7O.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000774,
+         "Name":"Northern Lights",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000774_dQq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000774_sidx_iAUhgp.m4a&id=100000774&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/northern-lights/id922880796?i=922880819&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000774_art_rVu6JR.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000755,
+         "Name":"見習い天使と星降りの丘",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000755_e6cXC.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000755_sidx_iEd2f3.m4a&id=100000755&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/jian-xii-tian-shito-xing-jiangrino/id830122988?i=830123021&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000755_art_HdE.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000756,
+         "Name":"情操ディストピア",
+         "Artist":"mami",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000756_VZrPK.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000756_sidx_mef.m4a&id=100000756&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/qing-caodisutopia/id665004382?i=665004726&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000756_art_6jR.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000757,
+         "Name":"旋律のドグマ～Misérables～",
+         "Artist":"楓璃夢＝ジークフリード＝ファイエルローゼン",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000757_5Kr8P.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000757_sidx_rUdz.m4a&id=100000757&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/xuan-lunodoguma-miserables/id768486201?i=768486206&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000757_art_Vwn9x.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000758,
+         "Name":"Stand Alone Beat Masta",
+         "Artist":"GUHROOVY",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000758_eBj.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000758_sidx_xG1.m4a&id=100000758&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/stand-alone-beat-masta/id830117667?i=830117711&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000758_art_iiq3A.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000751,
+         "Name":"Cleopatrysm",
+         "Artist":"ピラミッ℃",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000751_l9Aq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000751_sidx_HZHia.m4a&id=100000751&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/cleopatrysm/id968356821?i=968357000",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000751_art_lwUvbl.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000752,
+         "Name":"御千手メディテーション",
+         "Artist":"昇天家族",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000752_L2T.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000752_sidx_LFD.m4a&id=100000752&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/yu-qian-shoumediteshon/id968356821?i=968357004",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000752_art_2L8X9.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000753,
+         "Name":"KHAMEN BREAK",
+         "Artist":"くふおー",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000753_TyUO.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000753_sidx_mZ1Eu.m4a&id=100000753&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/khamen-break/id968356821?i=968357008",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000753_art_WYt.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000754,
+         "Name":"KHAMEN BREAK -SDVX Infinity MashUp-",
+         "Artist":"くふおー effected by Megacycle",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000754_Ih2.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000754_sidx_2Yp.m4a&id=100000754&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000754_art_JlW.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000742,
+         "Name":"砂の雨は夜に",
+         "Artist":"あさき",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000742_vkPjcw.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000742_sidx_4WC1Rv.m4a&id=100000742&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/shano-yuha-yeni/id922880796?i=922880825&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000742_art_qq81s.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100040008,
+         "Name":"I LOVE SUNFLOWER",
+         "Artist":"CHERRY BLOSSOMS (ASAKI & wac)",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100040008_2Qtvh.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000134_sidx.m4a&id=100000134&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id430811223?i=430811343&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100040008_art_oRkXO8.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100040005,
+         "Name":"IX",
+         "Artist":"dj TAKA VS DJ TOTTO feat.藍",
+         "Level":[
+            3,
+            5,
+            8
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100040005_jKx.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000134_sidx.m4a&id=100000134&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id430811223?i=430811343&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100040005_art_net.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100040011,
+         "Name":"I LOVE COSMOS",
+         "Artist":"CHERRY BLOSSOMS (ASAKI & wac)",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100040011_H2O.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000806_sidx_63sG.m4a&id=100000806&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100040011_art_L7Onl.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":311120113,
+         "Name":"ロストワンの号哭",
+         "Artist":"Neru",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/311120113_z1Yt8.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F311120113_sidx_V5MqIY.m4a&id=311120113&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/rosutowanno-hao-ku-feat.-jing/id616033079?i=616033176&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/311120113_art_4pwp3.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":331120120,
+         "Name":"クノイチでも恋がしたい",
+         "Artist":"みきとP feat.松下",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/331120120_53A.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F331120120_sidx_lif.m4a&id=331120120&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/kunoichidemo-liangashitai/id774814941?i=774814951&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/331120120_art_vBh1NK.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":341120122,
+         "Name":"放課後ストライド",
+         "Artist":"Last Note.",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/341120122_bfR.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341120122_sidx_xFrGy.m4a&id=341120122&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/fang-ke-housutoraido/id615298123?i=615298406&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/341120122_art_rHh.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":311120401,
+         "Name":"On My Wings",
+         "Artist":"kors k",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/311120401_pDgN.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F311120401_sidx_ohrB.m4a&id=311120401&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/on-my-wings/id879309927?i=879309936&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/311120401_art_RRaMqh.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":311120125,
+         "Name":"過食性:アイドル症候群",
+         "Artist":"スズム",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/311120125_u4DSkZ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F311120125_sidx_r0j0.m4a&id=311120125&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/guo-shi-xing-aidoru-zheng/id649327773?i=649327777&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/311120125_art_S0N0T.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321120001,
+         "Name":"sukha",
+         "Artist":"Ryu☆",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321120001_5vQQ3v.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321120001_sidx_0P4.m4a&id=321120001&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/sukha/id911689150?i=911689156&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321120001_art_CDq.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321120002,
+         "Name":"H.U.D.01",
+         "Artist":"Ryu☆",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321120002_QKb8.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321120002_sidx_WZSM.m4a&id=321120002&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/h.u.d.01/id911689150?i=911689166&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321120002_art_uQ2D.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321130116,
+         "Name":"アイネクライネ​",
+         "Artist":"→Pia-no-jaC←",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321130116_bHU.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321130116_sidx_LkS.m4a&id=321130116&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/ainekuraine/id937802871?i=937802932&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321130116_art_boXE.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321350001,
+         "Name":"MURASAKI",
+         "Artist":"蒼井翔太",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321350001_7AV.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321350001_sidx_EHu.m4a&id=321350001&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/murasaki-wu-tai-prince-kaguya/id1034235885?i=1034235886&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321350001_art_4wn.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000855,
+         "Name":"Go↓Go↑Girls&Boys!",
+         "Artist":"松下 feat.Sota&wac",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000855_cjbbq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000855_sidx_5X2UwV.m4a&id=100000855&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/go-go-girls-boys!/id975162609?i=975162622&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000855_art_hdnbV.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321390001,
+         "Name":"はなまるぴっぴはよいこだけ",
+         "Artist":"A応P",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321390001_LjZ3SX.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321390001_sidx_k5C5gp.m4a&id=321390001&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321390001_art_f2JTx.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":331120701,
+         "Name":"朝色の紙飛行機",
+         "Artist":"かめりあ",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/331120701_TnP.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F331120701_sidx_E2z9.m4a&id=331120701&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/331120701_art_gPNP.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":321120702,
+         "Name":"M.A.Y.U.",
+         "Artist":"Ryu☆",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/321120702_hxBV.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F321120702_sidx_zhJm.m4a&id=321120702&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/321120702_art_R6s.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":331120502,
+         "Name":"バンブーソード・ガール",
+         "Artist":"cosMo@暴走P",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/331120502_wKBx.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F331120502_sidx_I2e.m4a&id=331120502&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/331120502_art_UBlvbg.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":331120505,
+         "Name":"ガラクタネバーランド",
+         "Artist":"cosMo@暴走P feat.灯油",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/331120505_l6BDFz.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F331120505_sidx_t0iO.m4a&id=331120505&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/331120505_art_KDg5h.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":311120902,
+         "Name":"contrail tail",
+         "Artist":"moimoi×Xceon×Dai.",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/311120902_9fTKO.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F311120902_sidx_mMxmR.m4a&id=311120902&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/311120902_art_4P31Mz.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":311120903,
+         "Name":"光と幻影（Xceon album ver.)",
+         "Artist":"Xceon feat.Mayumi Morinaga",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/311120903_G1ej.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F311120903_sidx_YCqP.m4a&id=311120903&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/311120903_art_s3x.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000800,
+         "Name":"FUJIMORI -祭- FESTIVAL",
+         "Artist":"VENUS",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000800_98qv.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000800_sidx_d95ZFl.m4a&id=100000800&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/fujimori-ji-festival/id922880796?i=922880850&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000800_art_folZO.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000801,
+         "Name":"YELLOW SPLASH!!",
+         "Artist":"P*Light",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000801_VFS4B.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000801_sidx_g5Nm.m4a&id=100000801&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/yellow-splash!!/id922880796?i=922880871&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000801_art_kgG.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000802,
+         "Name":"Kailua",
+         "Artist":"kors k",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000802_TIxM9K.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000802_sidx_O5e.m4a&id=100000802&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/kailua/id520746790?i=520747119&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000802_art_eA5iMs.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000803,
+         "Name":"Chronoxia",
+         "Artist":"DJ Totoriott",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000803_Mw1d.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000803_sidx_GWqA9.m4a&id=100000803&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/chronoxia/id922880796?i=922880846&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000803_art_aa3nfF.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000804,
+         "Name":"Chirality",
+         "Artist":"かめりあ",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000804_N9Zg.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000804_sidx_xXE.m4a&id=100000804&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/chirality/id922880796?i=922880868&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000804_art_jH1PZ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000805,
+         "Name":"Smooooch・∀・ (Ryu☆ Remix)",
+         "Artist":"Ryu☆",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000805_qGhy.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000805_sidx_FNY5h.m4a&id=100000805&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000805_art_1XZ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000806,
+         "Name":"Playing With Fire (Sota Fujimori Remix)",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000806_Od5.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000806_sidx_63sG.m4a&id=100000806&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000806_art_XBp2.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000941,
+         "Name":"I'M GONNA GET YOU!",
+         "Artist":"Kelly Cosmo",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000941_hSu.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000941_sidx_O8A.m4a&id=100000941&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000941_art_pEMS.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000942,
+         "Name":"the keel",
+         "Artist":"Akino",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000942_V1w.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000942_sidx_lWtIBV.m4a&id=100000942&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000942_art_W0SVP.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000943,
+         "Name":"LOVE IS ORANGE",
+         "Artist":"Orange Lounge",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000943_dGwC.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000943_sidx_JQ6Uq.m4a&id=100000943&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000943_art_Pqm.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000944,
+         "Name":"Gamelan de Couple",
+         "Artist":"TOMOSUKE",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000944_4yGKT.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000944_sidx_OpqeXr.m4a&id=100000944&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000944_art_LOldYc.png",
+         "PID":[
+            71
+         ]
+      },
+      {
+         "ID":100000933,
+         "Name":"GENOM SCREAMS",
+         "Artist":"L.E.D.LIGHT",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000933_08P.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000933_sidx_hGCIg.m4a&id=100000933&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000933_art_jEx6CX.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000934,
+         "Name":"Presto",
+         "Artist":"Osamu Kubota",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000934_2I1.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000934_sidx_9iRpY.m4a&id=100000934&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000934_art_5GY5DJ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000935,
+         "Name":"JET WORLD",
+         "Artist":"泉 陸奥彦",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000935_j6VQqh.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000935_sidx_dcDWtr.m4a&id=100000935&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000935_art_XyD.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000936,
+         "Name":"Go Beyond!!",
+         "Artist":"Ryu☆ Vs. Sota",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000936_jamW.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000936_sidx_PHX1F.m4a&id=100000936&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000936_art_a0nj.png",
+         "PID":[
+            70
+         ]
+      },
+      {
+         "ID":100000897,
+         "Name":"取り残された美術(Arranged:HiZuMi)",
+         "Artist":"幽閉サテライト feat. senya",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000897_7zGO.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000897_sidx_x4yk8.m4a&id=100000897&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000897_art_Tyvjn.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000898,
+         "Name":"ホメ猫☆センセーション",
+         "Artist":"P*Light feat. mow*2",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000898_GeyQ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000898_sidx_FOjr5c.m4a&id=100000898&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000898_art_sHdu.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000899,
+         "Name":"Struggle",
+         "Artist":"Masayoshi Minoshima(ALR)",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000899_mOehXn.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000899_sidx_DzGY.m4a&id=100000899&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000899_art_MKmFmC.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000900,
+         "Name":"妖隠し -あやかしかくし-",
+         "Artist":"DJ TOTTO feat.3L",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000900_vWA.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000900_sidx_LzLA.m4a&id=100000900&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000900_art_pVuhaa.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000905,
+         "Name":"大見解",
+         "Artist":"Des-ROW・組",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000905_ZuV.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000905_sidx_OvJ.m4a&id=100000905&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000905_art_r0bnt.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000906,
+         "Name":"Funky sonic World",
+         "Artist":"Des-ROW feat.SHIGE",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000906_w3aedd.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000906_sidx_2gJJpr.m4a&id=100000906&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000906_art_ioi.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000907,
+         "Name":"BE LOVIN",
+         "Artist":"D-crew",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000907_0Sd.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000907_sidx_ZKWs.m4a&id=100000907&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000907_art_v7HObe.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000908,
+         "Name":"CURUS",
+         "Artist":"D-crew",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000908_J6vi.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000908_sidx_gOV.m4a&id=100000908&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000908_art_EyZr.png",
+         "PID":[
+            68
+         ]
+      },
+      {
+         "ID":100000893,
+         "Name":"Russian Caravan Rhapsody",
+         "Artist":"Power Of Nature",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000893_Kyl.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000893_sidx_fiVqk.m4a&id=100000893&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000893_art_1sNLT.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000894,
+         "Name":"ほおずき程度には赤い頭髪",
+         "Artist":"Akhuta",
+         "Level":[
+            4,
+            8,
+            12
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000894_JAVxq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000894_sidx_aUr.m4a&id=100000894&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000894_art_ean1Mh.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000895,
+         "Name":"Scarlet Moon",
+         "Artist":"REDALiCE feat. Ayumi Nomiya",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000895_Z81.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000895_sidx_JhdZj1.m4a&id=100000895&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000895_art_rMd.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000896,
+         "Name":"NEON WORLD",
+         "Artist":"SOUND HOLIC feat. Nana Takahashi",
+         "Level":[
+            2,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000896_9K1v1.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000896_sidx_NTASP.m4a&id=100000896&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000896_art_nJUCg.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000881,
+         "Name":"DROP THE BOMB",
+         "Artist":"Scotty D.",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000881_TR8I7.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000881_sidx_eiq.m4a&id=100000881&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000881_art_RUwd1.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000882,
+         "Name":"AXIS",
+         "Artist":"千本松 仁",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000882_RyNeNs.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000882_sidx_GvdskF.m4a&id=100000882&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000882_art_2gzx.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000883,
+         "Name":"fellows",
+         "Artist":"dj TAKA feat. Sana",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000883_b37P.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000883_sidx_1kz.m4a&id=100000883&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000883_art_RqvOw.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000884,
+         "Name":"MAD BLAST",
+         "Artist":"THE INFECTION",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000884_uARTDb.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000884_sidx_ffOgWU.m4a&id=100000884&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000884_art_eHQhLt.png",
+         "PID":[
+            69
+         ]
+      },
+      {
+         "ID":100000877,
+         "Name":"The 4th KAC DJ TOTTO's SELECTION",
+         "Artist":"remixed by DJ TOTTO",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000877_xEf.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000877_sidx_Z4yQY.m4a&id=100000877&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000877_art_r00p.png",
+         "PID":[
+            64
+         ]
+      },
+      {
+         "ID":100000878,
+         "Name":"MAGICAL SUMMER SMILE",
+         "Artist":"wac feat. VENUS",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000878_kDsa0.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000878_sidx_GVbB.m4a&id=100000878&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000878_art_IM72j.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000879,
+         "Name":"Hello Happiness",
+         "Artist":"P*Light feat. mow*2",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000879_iJTC.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000879_sidx_WbTe4y.m4a&id=100000879&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000879_art_yDcwkR.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000873,
+         "Name":"ABSOLUTE",
+         "Artist":"dj TAKA",
+         "Level":[
+            4,
+            6,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000873_o0iG.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000873_sidx_Mto9TC.m4a&id=100000873&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000873_art_rJa.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000874,
+         "Name":"CHOCOLATE PHILOSOPHY",
+         "Artist":"常盤ゆう",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000874_rqWf.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000874_sidx_A8dTn.m4a&id=100000874&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000874_art_WkCJlw.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000875,
+         "Name":"LOGICAL DASH",
+         "Artist":"dj TAKA",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000875_A6Te6z.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000875_sidx_K6NIS3.m4a&id=100000875&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000875_art_vHn71f.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000876,
+         "Name":"era (nostalmix)",
+         "Artist":"TaQ",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000876_wqSht.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000876_sidx_fHzQ.m4a&id=100000876&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000876_art_LKm1.png",
+         "PID":[
+            67
+         ]
+      },
+      {
+         "ID":100000913,
+         "Name":"neko*neko",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000913_Pc0.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000913_sidx_bEnmu6.m4a&id=100000913&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000913_art_RHsy.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000917,
+         "Name":"激アツ☆マジヤバ☆チアガール",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000917_aTf7DQ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000917_sidx_BQp.m4a&id=100000917&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000917_art_W8oSb.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000937,
+         "Name":"チョコレートスマイル",
+         "Artist":"日向美ビタースイーツ♪ & ここなつ",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000937_SwG.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000937_sidx_fYa.m4a&id=100000937&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000937_art_0Va6j2.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000869,
+         "Name":"Genesis At Oasis",
+         "Artist":"白龍",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000869_TQM.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000869_sidx_fnVpNv.m4a&id=100000869&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000869_art_X0VzUX.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000870,
+         "Name":"The Least 100sec",
+         "Artist":"佐々木博史",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000870_qZe.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000870_sidx_oqXb.m4a&id=100000870&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000870_art_1D9.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000871,
+         "Name":"白露の風",
+         "Artist":"Qrispy Joybox feat. 常盤ゆう",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000871_dHC5s.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000871_sidx_MqfNmw.m4a&id=100000871&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000871_art_AwSE.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000872,
+         "Name":"Freedom -DEUS Mix-",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000872_crsZD.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000872_sidx_D3MuXP.m4a&id=100000872&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000872_art_rios.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000865,
+         "Name":"Air Reading Power",
+         "Artist":"ADULTIC TEACHERS",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000865_UE7IFo.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000865_sidx_jvl.m4a&id=100000865&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/air-reading-power/id1005315684?i=1005320400&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000865_art_uEMjJ.png",
+         "PID":[
+            63
+         ]
+      },
+      {
+         "ID":100000866,
+         "Name":"Artifacter",
+         "Artist":"CAPACITY GATE",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000866_lM3.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000866_sidx_rbm.m4a&id=100000866&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/artifacter/id1005315684?i=1005320394&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000866_art_G2eUk.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000867,
+         "Name":"恋愛観測 -VENUS Mix-",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000867_9WZe.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000867_sidx_GpBMXk.m4a&id=100000867&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/lian-ai-guan-ce-venus-mix/id1006584667?i=1006584688&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000867_art_gSi.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000868,
+         "Name":"Ludus In Tenebris",
+         "Artist":"Akhuta",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000868_z0p.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000868_sidx_kwv.m4a&id=100000868&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/ludus-in-tenebris/id1005315684?i=1005320901&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000868_art_44o2t.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000861,
+         "Name":"OverDriveTrain",
+         "Artist":"cosMo＠暴走P",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000861_Y1XA4.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000861_sidx_94Og.m4a&id=100000861&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/overdrivetrain/id1005315684?i=1005320393&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000861_art_UAr.png",
+         "PID":[
+            62
+         ]
+      },
+      {
+         "ID":100000862,
+         "Name":"Miseria",
+         "Artist":"MAX MAXIMIZER",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000862_Ef6F.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000862_sidx_cIy.m4a&id=100000862&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/miseria/id1005315684?i=1005320399&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000862_art_HhpokM.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000863,
+         "Name":"はおち～♡カンフー娘の鉄拳フルコース!!",
+         "Artist":"もえよ！功夫娘々☆Prim",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000863_Mn7DvZ.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000863_sidx_tFdu.m4a&id=100000863&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/haochi-kanfu-niangno-zhi-quanfurukosu!!/id1005315684?i=1005320388&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000863_art_dLlXQ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000864,
+         "Name":"Golden Cross (extended remix)",
+         "Artist":"REMO-CON vs dj TAKA",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000864_6Q7ND9.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000864_sidx_dUrc.m4a&id=100000864&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/golden-cross-extended-remix/id915697255?i=915698626&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000864_art_G78eB4.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000857,
+         "Name":"Snow Eagle",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000857_pxg.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000857_sidx_Td0.m4a&id=100000857&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/snow-eagle/id922880796?i=922882897&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000857_art_04Xt.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000858,
+         "Name":"anqad",
+         "Artist":"onoken feat.b",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000858_DS85.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000858_sidx_9QQp.m4a&id=100000858&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/anqad-feat.b/id1005315684?i=1005320380&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000858_art_UC0.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000859,
+         "Name":"I・MA・SU・GU ALL RIGHT！",
+         "Artist":"VENUS",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000859_j1G8.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000859_sidx_bViXSx.m4a&id=100000859&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/i-ma-su-gu-all-right!/id1005315684?i=1005320902&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000859_art_pTjmPY.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000860,
+         "Name":"龍と少女とデコヒーレンス",
+         "Artist":"黒猫ダンジョン",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000860_9LF5F.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000860_sidx_jCT.m4a&id=100000860&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/longto-shao-nutodekohirensu/id605243244?i=605243850&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000860_art_xsV8i.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000855,
+         "Name":"Go↓Go↑Girls&Boys!",
+         "Artist":"松下 feat.Sota&wac",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000855_cjbbq.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000855_sidx_5X2UwV.m4a&id=100000855&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/go-go-girls-boys!/id975162609?i=975162622&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000855_art_hdnbV.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000851,
+         "Name":"Gale Rider",
+         "Artist":"P*Light",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000851_ybQ2.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000851_sidx_DsN.m4a&id=100000851&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/gale-rider/id922880796?i=922882906&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000851_art_7Q9F.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000852,
+         "Name":"夕刻エレジ　-秋-",
+         "Artist":"Des-ROW",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000852_yBwYLg.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000852_sidx_zueS.m4a&id=100000852&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/xi-keereji-qiu/id1005315684?i=1005317161&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000852_art_PEu0Ci.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000853,
+         "Name":"envidia",
+         "Artist":"猫叉劇団",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000853_fuG.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000853_sidx_cbXdQl.m4a&id=100000853&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/envidia/id1005315684?i=1005317157&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000853_art_BsvL.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000854,
+         "Name":"ポチコの幸せな日常",
+         "Artist":"NU-KO",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000854_gvxhKx.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000854_sidx_srkWSm.m4a&id=100000854&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/pochikono-xingsena-ri-chang/id816101904?i=816102023&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000854_art_4xIU0.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000847,
+         "Name":"オタサー☆レボリューション",
+         "Artist":"ARM(IOSYS) feat. miko & キム",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000847_XrEeu.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000847_sidx_rVs.m4a&id=100000847&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/otasa-reboryushon/id922880796?i=922882899&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000847_art_VzL.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000848,
+         "Name":"Material Factor",
+         "Artist":"岩橋星実(Elements Garden) feat.μ",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000848_PkLD.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000848_sidx_Vjz.m4a&id=100000848&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/material-factor-feat.m/id1005315684?i=1005317163&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000848_art_ynZZnE.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000849,
+         "Name":"WICKeD CRφSS",
+         "Artist":"OSTER project",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000849_0sflSf.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000849_sidx_PXAFV.m4a&id=100000849&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/wicked-crphss/id922880796?i=922882908&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000849_art_lYyhP3.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000850,
+         "Name":"Into UR Heart",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000850_MXr.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000850_sidx_6oi.m4a&id=100000850&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/into-ur-heart-extended-mix/id919824668?i=919824677&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000850_art_6zq69.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000843,
+         "Name":"Guilty Destruction",
+         "Artist":"DUALLELE（Akhuta＆DJ TOTTO）",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000843_jxcoi.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000843_sidx_GJVhx.m4a&id=100000843&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/guilty-destruction/id922880796?i=922880879&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000843_art_amN.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000844,
+         "Name":"Proluvies",
+         "Artist":"かめりあ",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000844_dx9W.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000844_sidx_u0VBC.m4a&id=100000844&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/proluvies/id922880796?i=922882907&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000844_art_YQJbl.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000845,
+         "Name":"Super Duper Racers",
+         "Artist":"kors k & Numb'n'dub",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000845_UZYXuj.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000845_sidx_5Lppl.m4a&id=100000845&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/super-duper-racers/id1005315684?i=1005320384&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000845_art_qH5x4.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000846,
+         "Name":"ARACHNE(DJ Noriken Remix)",
+         "Artist":"DJ Noriken",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000846_eqRBX.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000846_sidx_sC2.m4a&id=100000846&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/arachne-dj-noriken-remix/id922880796?i=922883007&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000846_art_1HYUD.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000839,
+         "Name":"狂鬼村正",
+         "Artist":"九六VS栗須承之介",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000839_y7e.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000839_sidx_xCe.m4a&id=100000839&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/kuang-gui-cun-zheng/id922880796?i=922880873&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000839_art_b3j.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000840,
+         "Name":"鬼天",
+         "Artist":"兎々",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000840_2gD.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000840_sidx_QzfFc.m4a&id=100000840&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/gui-tian/id922880796?i=922882911&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000840_art_Sa4re4.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000841,
+         "Name":"Time again",
+         "Artist":"猫叉Master",
+         "Level":[
+            2,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000841_NIP.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000841_sidx_aIea1.m4a&id=100000841&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/time-again/id1005315684?i=1005317162&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000841_art_4qDs.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000842,
+         "Name":"TSAR BOMBA",
+         "Artist":"L.E.D.",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000842_MH9Y1.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000842_sidx_Sjw.m4a&id=100000842&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/tsar-bomba/id740506777?i=740507066&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000842_art_8y3.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000835,
+         "Name":"打打打打打打打打打打",
+         "Artist":"ヒゲドライバー join. SELEN",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000835_osLZTG.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000835_sidx_Buqs.m4a&id=100000835&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/da-da-da-da-da-da-da-da-da-da/id922880796?i=922880883&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000835_art_kOLe.png",
+         "PID":[
+            4
+         ]
+      },
+      {
+         "ID":100000836,
+         "Name":"Cytokinesis",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000836_u9ug6C.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000836_sidx_rYd.m4a&id=100000836&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/cytokinesis/id922880796?i=922882905&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000836_art_3eWY.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000837,
+         "Name":"Giant Strength",
+         "Artist":"RoughSketch",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000837_auK.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000837_sidx_dqH.m4a&id=100000837&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/giant-strength/id922880796?i=922882909&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000837_art_Iogv9.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000838,
+         "Name":"DARK LEGACY",
+         "Artist":"BaSTeT",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000838_nRF0NU.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000838_sidx_TDc.m4a&id=100000838&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/dark-legacy/id768486201?i=768486203&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000838_art_CVcRsE.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000831,
+         "Name":"天地動伝説",
+         "Artist":"98",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000831_Wvr.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000831_sidx_lNi6.m4a&id=100000831&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/tian-de-dong-chuan-shuo/id922880796?i=922880865&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000831_art_8tJv2.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000832,
+         "Name":"Benita",
+         "Artist":"劇団レコード",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000832_1WX.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000832_sidx_z92xUc.m4a&id=100000832&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/benita/id922880796?i=922882898&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000832_art_PPQGt.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000833,
+         "Name":"Adularia",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000833_OhF.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000833_sidx_FU9.m4a&id=100000833&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/adularia/id906582716?i=906582726&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000833_art_b5w.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000834,
+         "Name":"7 Colors (DJ NAGAI Remix)",
+         "Artist":"DJ NAGAI",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000834_HytR9H.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000834_sidx_VOxLbB.m4a&id=100000834&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/7-colors-dj-nagai-remix/id922880796?i=922883008&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000834_art_n7FM.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000827,
+         "Name":"Nigra Ludia",
+         "Artist":"Akhuta",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000827_gsu9IO.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000827_sidx_6dT9h.m4a&id=100000827&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/nigra-ludia/id922880796?i=922880864&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000827_art_L5Ou.png",
+         "PID":[
+            61
+         ]
+      },
+      {
+         "ID":100000828,
+         "Name":"Super GERO GE-RO",
+         "Artist":"S-C-U",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000828_Z02I.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000828_sidx_11hrR.m4a&id=100000828&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/super-gero-ge-ro/id922880796?i=922882896&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000828_art_xPE5Kx.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000829,
+         "Name":"FIRE FIRE",
+         "Artist":"StripE",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000829_sIIA.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000829_sidx_5WWkY.m4a&id=100000829&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/fire-fire/id424134495?i=424135117&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000829_art_q5S16Y.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000830,
+         "Name":"groovin'",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000830_tiE.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000830_sidx_oD0x.m4a&id=100000830&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000830_art_TvQtMI.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000823,
+         "Name":"refrain",
+         "Artist":"dj TAKA feat.AiMEE",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000823_ewt.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000823_sidx_bD1y.m4a&id=100000823&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/refrain/id922880796?i=922880813&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000823_art_x6N.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000824,
+         "Name":"らくりん☆パラダイス♪",
+         "Artist":"三章登",
+         "Level":[
+            3,
+            5,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000824_MWE.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000824_sidx_OONmnj.m4a&id=100000824&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/rakurin-paradaisu/id922880796?i=922882889&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000824_art_qiQ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000825,
+         "Name":"ビビットストリーム",
+         "Artist":"DJ TOTTO",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000825_N5cOY.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000825_sidx_X7zk4.m4a&id=100000825&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/bibittosutorimu/id1058155632?i=1058161177&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000825_art_AkSY.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000826,
+         "Name":"fffff",
+         "Artist":"Five Hammer",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000826_jh5Xh.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000826_sidx_hRARn6.m4a&id=100000826&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000826_art_yHcFXx.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000815,
+         "Name":"ツーマンライブ",
+         "Artist":"東雲夏陽 meets 日向美ビタースイーツ♪",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000815_M5C.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000815_sidx_aoGe.m4a&id=100000815&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/tsumanraibu-single/id959836357?at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000815_art_alGQ.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000816,
+         "Name":"キモチコネクト",
+         "Artist":"東雲心菜 meets 日向美ビタースイーツ♪",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000816_d4UKp.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000816_sidx_XeoDj.m4a&id=100000816&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/kimochikonekuto-single/id968686920?at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000816_art_YObSJe.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000814,
+         "Name":"ミライプリズム(collaboration ver.)",
+         "Artist":"ここなつ meets 日向美ビタースイーツ♪",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000814_z4l.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000814_sidx_m7AiNj.m4a&id=100000814&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000814_art_hfX.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000819,
+         "Name":"Poochie",
+         "Artist":"kors k",
+         "Level":[
+            4,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000819_BR4.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000819_sidx_d6hTyz.m4a&id=100000819&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/poochie/id922880796?i=922880845&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000819_art_XVeJGu.png",
+         "PID":[
+            59
+         ]
+      },
+      {
+         "ID":100000820,
+         "Name":"ulexite",
+         "Artist":"ZUKI",
+         "Level":[
+            4,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000820_u0gqo.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000820_sidx_2DN5Y.m4a&id=100000820&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/ulexite/id922880796?i=922882893&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000820_art_iwQ6c.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000821,
+         "Name":"狂喜宴舞",
+         "Artist":"栗須承之介",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000821_cDp.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000821_sidx_eEM.m4a&id=100000821&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/kuang-xi-yan-wu/id830122988?i=830122998&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000821_art_agTvXf.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000822,
+         "Name":"SABER WING",
+         "Artist":"TAG",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000822_04ADt.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000822_sidx_BH3.m4a&id=100000822&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/saber-wing/id520746790?i=520747186&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000822_art_lHUO.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000807,
+         "Name":"HALOS",
+         "Artist":"SOUND HOLIC feat. Nana Takahashi",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000807_ZJG.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000807_sidx_OQK.m4a&id=100000807&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/halos/id922880796?i=922882888&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000807_art_A8nT7.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000808,
+         "Name":"City Never Sleeps",
+         "Artist":"Dirty Androids",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000808_SA9G.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000808_sidx_C3W1Ff.m4a&id=100000808&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/city-never-sleeps/id922880796?i=922882894&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000808_art_W8N4.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000809,
+         "Name":"Army of Marionette",
+         "Artist":"RoughSketch",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000809_ji8KB.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000809_sidx_jeSZF.m4a&id=100000809&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/army-of-marionette/id922880796?i=922880870&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000809_art_VEy.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000810,
+         "Name":"Gimme a Big Beat (Hommarju Remix)",
+         "Artist":"Hommarju",
+         "Level":[
+            4,
+            7,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000810_pqCZ6X.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000810_sidx_pZWT.m4a&id=100000810&target=JP",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000810_art_sskA.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000795,
+         "Name":"LIGHTNING THUNDERBOLT-Try to Sing Ver.-",
+         "Artist":"TAG rejected by DJ TOTTO",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000795_eh3J.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000795_sidx_rtUL.m4a&id=100000795&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/lightning-thunderbolt-try/id922880796?i=922880851&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000795_art_aF9f.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000796,
+         "Name":"リカーシブ・ファンクション",
+         "Artist":"OSTER project",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000796_cgfw.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000796_sidx_H1fsp.m4a&id=100000796&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/rikashibu-fankushon/id922880796?i=922880869&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000796_art_X2x6.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100000797,
+         "Name":"シャムシールの舞",
+         "Artist":"ゼクトバッハ",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100000797_KVSb2.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100000797_sidx_fJ2n9.m4a&id=100000797&target=JP",
+         "iTunesURL":"https://itunes.apple.com/jp/album/shamshir-dance-shamushiruno/id360865963?i=360866260",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000797_art_O499vk.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299131,
+         "Name":"DAY DREAM",
+         "Artist":"Mutsuhiko Izumi",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299130.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804299061,
+         "Name":"V2",
+         "Artist":"TAKA",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298061,
+         "Name":"V",
+         "Artist":"TAKA",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804299060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298051,
+         "Name":"GUILTY",
+         "Artist":"D.J.SETUP",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298050.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298041,
+         "Name":"Lucy",
+         "Artist":"ELE BLOCK",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298040.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298031,
+         "Name":"♥Love² シュガ→ ♥",
+         "Artist":"dj TAKA feat.のりあ",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298030.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804298021,
+         "Name":"踊るフィーバーロボ Eu-Robot mix",
+         "Artist":"D&E&Y Rmx by kors k as disconation",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804298020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804297071,
+         "Name":"Spica",
+         "Artist":"D.JW",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804297070.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804212021,
+         "Name":"ロストワンの号哭(Groovin Ver.)",
+         "Artist":"Neru",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804212020.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208061,
+         "Name":"カーテンコール・メモリーズ",
+         "Artist":"DJ TOTTO & Qrispy Joybox",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804208060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804200061,
+         "Name":"SCHWARZSCHILD FIELD",
+         "Artist":"L.E.D.",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804200060.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":100050835,
+         "Name":"打打打打打打打打打打",
+         "Artist":"ヒゲドライバー join. SELEN",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100050835_MVAm.rb",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100000835_art_kOLe.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804201031,
+         "Name":"Poochie",
+         "Artist":"kors k",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000819.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":894201051,
+         "Name":"アヴァロンの丘(Groovin' Ver.)",
+         "Artist":"猫叉Master",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000784.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804201081,
+         "Name":"Nigra Ludia",
+         "Artist":"Akhuta",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000827.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804203081,
+         "Name":"OverDriveTrain",
+         "Artist":"cosMo@暴走P",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000861.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804207031,
+         "Name":"Air Reading Power",
+         "Artist":"ADULTIC TEACHERS",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000865.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804208021,
+         "Name":"The 4th KAC DJ TOTTO's SELECTION",
+         "Artist":"remixed by DJ TOTTO",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000877.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804293081,
+         "Name":"era (step mix)",
+         "Artist":"TaQ",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804293081.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804294041,
+         "Name":"CURUS-M (ditty)",
+         "Artist":"Des-crew",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804294041.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804294081,
+         "Name":"MAD BLAST",
+         "Artist":"THE INFECTION",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000884.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804295031,
+         "Name":"Go Beyond!!",
+         "Artist":"Ryu☆ Vs. Sota",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000936.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804295071,
+         "Name":"Gamelan de Couple",
+         "Artist":"TOMOSUKE",
+         "Level":[
+            12,
+            12,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000944.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296011,
+         "Name":"starmine (beatnation summit Ver.)",
+         "Artist":"Ryu☆",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"804296011.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296071,
+         "Name":"Pink Rose",
+         "Artist":"Kiyommy+Seiya",
+         "Level":[
+            8,
+            8,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000950.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":804296091,
+         "Name":"Beyond The Earth",
+         "Artist":"猫叉Master",
+         "Level":[
+            11,
+            11,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"100000952.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":120000619,
+         "Name":"めうめうぺったんたん！！",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/120000619LeePTR.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F120000619_sidx_NmwVbF.m4a&id=120000619&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id610310804?i=610311058&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/120000619_art_KFcqAc.jpg",
+         "PID":[
+            10
+         ]
+      },
+      {
+         "ID":100030010,
+         "Name":"とってもとっても、ありがとう。",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            2,
+            4,
+            7
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100030010VCNGtp.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100030010_sidx_XKrUjB.m4a&id=100030010&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id631149724?i=631149728&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100030010_art_gLcpFb.jpg",
+         "PID":[
+            11
+         ]
+      },
+      {
+         "ID":100060010,
+         "Name":"とってもとっても、ありがとう。",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            9,
+            9,
+            9
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100060010_TuaX.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F100030010_sidx_XKrUjB.m4a&id=100030010&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id631149724?i=631149728&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/100030010_art_gLcpFb.jpg",
+         "PID":[
+
+         ]
+      },
+      {
+         "ID":100050619,
+         "Name":"めうめうぺったんたん！！",
+         "Artist":"日向美ビタースイーツ♪",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"https://akx-dl.konami.net/akx/data/100050619_CXXuxM.rb",
+         "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F120000619_sidx_NmwVbF.m4a&id=120000619&target=JP",
+         "iTunesURL":"http://itunes.apple.com/jp/album/id610310804?i=610311058&at=11lc22",
+         "ArtworkURL":"https://akx-dl.konami.net/akx/image/120000619_art_KFcqAc.jpg",
+         "PID":[
+
+         ]
+      }
+   ],
+   "ExtNum":0
+}

@@ -1,0 +1,642 @@
+{
+   "ID":368,
+   "Name":"RBHOT CUSTOM PACK 12",
+   "Comment":"",
+   "ShortComment":"",
+   "IsNew":false,
+   "Copyright":"",
+   "ArtworkURL":"customPack12.png",
+   "ArtistBannerURL":"",
+   "MusicList":[
+      {
+         "ID":881003450,
+         "Name":"Hitch Hiker2",
+         "Artist":"good-cool",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003450.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003460,
+         "Name":"Niflheimr",
+         "Artist":"Qrispy Joybox",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003460.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003470,
+         "Name":"雪女",
+         "Artist":"かねこちはる",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003470.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003480,
+         "Name":"Buuuuuuurstraffic",
+         "Artist":"HOUJIROU",
+         "Level":[
+            4,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003480.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003490,
+         "Name":"Only For You",
+         "Artist":"NieN",
+         "Level":[
+            3,
+            6,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003490.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003500,
+         "Name":"Far East Princess",
+         "Artist":"Nauts",
+         "Level":[
+            3,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003500.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003510,
+         "Name":"ANALYS",
+         "Artist":"HAYAKO",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003510.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003520,
+         "Name":"We're All Gonna Die",
+         "Artist":"Paul Bazooka",
+         "Level":[
+            6,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003520.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003530,
+         "Name":"Smiling",
+         "Artist":"Sota Fujimori feat. Nagisa",
+         "Level":[
+            4,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003530.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003540,
+         "Name":"Entrapment",
+         "Artist":"Expander",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003540.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003550,
+         "Name":"Mother Ship",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003550.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003560,
+         "Name":"GRADIUS 2012",
+         "Artist":"Sota Fujimori",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003560.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003570,
+         "Name":"Honey Trap",
+         "Artist":"Expander",
+         "Level":[
+            6,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003570.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003580,
+         "Name":"時守唄",
+         "Artist":"felys feat.三澤 秋",
+         "Level":[
+            1,
+            4,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003580.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003590,
+         "Name":"ancient garden",
+         "Artist":"Cororo",
+         "Level":[
+            2,
+            5,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003590.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003600,
+         "Name":"FREEDOM",
+         "Artist":"USAO",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003610,
+         "Name":"good night , mommy",
+         "Artist":"South Carolina Duzzle",
+         "Level":[
+            5,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003610.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003620,
+         "Name":"HAPPY☆LUCKY☆YEAPPY",
+         "Artist":"DJ ミラクル☆ストーン",
+         "Level":[
+            5,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003620.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003630,
+         "Name":"chaos eater",
+         "Artist":"猫叉Master+",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003630.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003640,
+         "Name":"EGOISM 440",
+         "Artist":"U1 High-Speed",
+         "Level":[
+            8,
+            11,
+            13
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003640.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003650,
+         "Name":"Over The “Period”",
+         "Artist":"TAG underground overlay",
+         "Level":[
+            6,
+            9,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003650.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003660,
+         "Name":"Big Wave",
+         "Artist":"Atsuki",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003660.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003670,
+         "Name":"Run Run",
+         "Artist":"Ryu☆",
+         "Level":[
+            4,
+            7,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003670.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003680,
+         "Name":"Deep Deep Inside",
+         "Artist":"ino.",
+         "Level":[
+            5,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003680.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":881003690,
+         "Name":"異常震域",
+         "Artist":"OSTER project",
+         "Level":[
+            7,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"881003690.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201510,
+         "Name":"翼の折れた天使たちのレクイエム",
+         "Artist":"Sakamiya feat.前野",
+         "Level":[
+            3,
+            7,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201510.png",
+         "PID":[
+            230
+         ]
+      },
+      {
+         "ID":882201520,
+         "Name":"The Guardians Of The Sun",
+         "Artist":"RiraN",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201520.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201530,
+         "Name":"Back Back Down",
+         "Artist":"阿吽a.k.a水無月☆★",
+         "Level":[
+            5,
+            8,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201530.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201540,
+         "Name":"My First Phone",
+         "Artist":"cubesato",
+         "Level":[
+            1,
+            4,
+            8
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201540.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201550,
+         "Name":"覚醒楽奏メタフィクション",
+         "Artist":"マチゲリータ",
+         "Level":[
+            4,
+            8,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201550.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201560,
+         "Name":"SAMBISTA",
+         "Artist":"DOT96",
+         "Level":[
+            3,
+            7,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201560.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201570,
+         "Name":"「進め！対戦ぱずるだま」メドレー",
+         "Artist":"コナミ矩形波倶楽部",
+         "Level":[
+            3,
+            6,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201570.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201580,
+         "Name":"Play merrily",
+         "Artist":"Shohei Tsuchiya",
+         "Level":[
+            2,
+            5,
+            9
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201580.png",
+         "PID":[
+            231
+         ]
+      },
+      {
+         "ID":882201590,
+         "Name":"HISTORIA",
+         "Artist":"Cranky",
+         "Level":[
+            4,
+            9,
+            11
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201590.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201600,
+         "Name":"]-[|/34＜#!",
+         "Artist":"並木 学",
+         "Level":[
+            7,
+            10,
+            12
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201581,
+         "Name":"Play merrily",
+         "Artist":"Shohei Tsuchiya",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201600.png",
+         "PID":[
+            
+         ]
+      },
+      {
+         "ID":882201511,
+         "Name":"翼の折れた天使たちのレクイエム",
+         "Artist":"Sakamiya feat.前野",
+         "Level":[
+            10,
+            10,
+            10
+         ],
+         "ItemURL":"",
+         "SampleURL":"",
+         "iTunesURL":"",
+         "ArtworkURL":"882201510.png",
+         "PID":[
+            
+         ]
+      }
+   ],
+   "ExtNum":0
+}
