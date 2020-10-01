@@ -1,6 +1,6 @@
 <?php
 header('Content-type: application/json; charset=utf-8');
-$jsonData = json_decode(file_get_contents('packlist.json', 'UTF-8'));
+$jsonData = json_decode(file_get_contents('config/packlist.json', 'UTF-8'));
 $from = (isset($_GET['head']) ? (int)$_GET['head'] : 1) - 1;
 $limit = isset($_GET['limit']) ? (int)$_GET['limit'] : 10;
 $list = [];
@@ -28,7 +28,7 @@ if ($from === 0) {
 }
 for ($i = 0; $i < count($result['PackList']); $i++) {
     if ($result['PackList'][$i]->ID >= 350) {
-        $data = json_decode(file_get_contents('packinfo'.$result['PackList'][$i]->ID.'.json'));
+        $data = json_decode(file_get_contents('config/packinfo'.$result['PackList'][$i]->ID.'.json'));
         $count = 0;
         for ($j = 0; $j < count($data->MusicList); $j++) {
             $count += count($data->MusicList[$j]->PID);
@@ -36,7 +36,7 @@ for ($i = 0; $i < count($result['PackList']); $i++) {
         $result['PackList'][$i]->ExtNum = $count;
         $result['PackList'][$i]->MusicNum = count($data->MusicList);
     } else {
-        $list = json_decode(file_get_contents('packInfo_last.json'));
+        $list = json_decode(file_get_contents('config/packInfo_last.json'));
         for ($j = 0; $j < count($list); $j++) {
             if ($list[$j]->ID === $result['PackList'][$i]->ID) {
                 $count = 0;

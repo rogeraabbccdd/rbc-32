@@ -2,8 +2,8 @@
 include('fixDownload.php');
 $pack = isset($_GET['pack']) ? $_GET['pack'] : 1;
 header('Content-type: application/json; charset=utf-8');
-if (!file_exists('packlist/packinfo'.$pack.'.json')) {
-    $list = json_decode(file_get_contents('packlist/packInfo_last.json'));
+if (!file_exists('config/packinfo'.$pack.'.json')) {
+    $list = json_decode(file_get_contents('config/packInfo_last.json'));
     for ($i = 0; $i < count($list); $i++) {
         if ((string)$list[$i]->ID === $pack) {
             $extCount = 0;
@@ -19,7 +19,7 @@ if (!file_exists('packlist/packinfo'.$pack.'.json')) {
     echo '{}';
     exit();
 }
-$data = json_decode(file_get_contents('packlist/packinfo'.$pack.'.json'));
+$data = json_decode(file_get_contents('config/packinfo'.$pack.'.json'));
 $extCount = 0;
 for ($i = 0; $i < count($data->MusicList); $i++) {
 	$data->MusicList[$i]->ItemURL = fixDL($data->MusicList[$i]->ID, $data->MusicList[$i]->ItemURL);
