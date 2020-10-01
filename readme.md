@@ -1,4 +1,4 @@
-# Reflec Beat Store
+# Rb Store
 
 provided this api example source code and resource
 
