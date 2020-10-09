@@ -9779,7 +9779,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341360101_y39.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341360101_sidx_KUBtns.m4a&id=341360101&target=JP",
             "iTunesURL":"",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341360101_art_qeHS.png",
+            "ArtworkURL":"341360101.png",
             "PID":[
                
             ]
@@ -9796,7 +9796,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203201_bKEo.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203201_sidx_ZP0X0.m4a&id=341203201&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wakuwakumairaifu/id976517600?i=976517604&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203201_art_H2a8ek.png",
+            "ArtworkURL":"341203201.png",
             "PID":[
                
             ]
@@ -9813,7 +9813,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203202_gCZ.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203202_sidx_7teO.m4a&id=341203202&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jin-rikurai/id976517600?i=976517605&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203202_art_zome.png",
+            "ArtworkURL":"341203202.png",
             "PID":[
                
             ]
@@ -9830,7 +9830,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203203_ihcV.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203203_sidx_Hd1684.m4a&id=341203203&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/yeyo-mingkenaide/id1018167525?i=1018167534&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203203_art_Zq9.png",
+            "ArtworkURL":"341203203.png",
             "PID":[
                
             ]
@@ -10255,6 +10255,74 @@
       "ArtworkURL":"officialPack.png",
       "ArtistBannerURL":"",
       "MusicList":[
+         {
+            "ID":341360101,
+            "Name":"僕ガ壊レル前ニ",
+            "Artist":"ゲーム実況もっと！わくわく荘",
+            "Level":[
+               4,
+               8,
+               9
+            ],
+            "ItemURL":"https://akx-dl.konami.net/akx/data/341360101_y39.rb",
+            "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341360101_sidx_KUBtns.m4a&id=341360101&target=JP",
+            "iTunesURL":"",
+            "ArtworkURL":"341360101.png",
+            "PID":[
+               
+            ]
+         },
+         {
+            "ID":341203201,
+            "Name":"わくわくマイライフ",
+            "Artist":"ゲーム実況者わくわくバンド",
+            "Level":[
+               5,
+               7,
+               9
+            ],
+            "ItemURL":"https://akx-dl.konami.net/akx/data/341203201_bKEo.rb",
+            "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203201_sidx_ZP0X0.m4a&id=341203201&target=JP",
+            "iTunesURL":"https://itunes.apple.com/jp/album/wakuwakumairaifu/id976517600?i=976517604&at=11lc22",
+            "ArtworkURL":"341203201.png",
+            "PID":[
+               
+            ]
+         },
+         {
+            "ID":341203202,
+            "Name":"今日くらい",
+            "Artist":"ゲーム実況者わくわくバンド",
+            "Level":[
+               3,
+               6,
+               9
+            ],
+            "ItemURL":"https://akx-dl.konami.net/akx/data/341203202_gCZ.rb",
+            "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203202_sidx_7teO.m4a&id=341203202&target=JP",
+            "iTunesURL":"https://itunes.apple.com/jp/album/jin-rikurai/id976517600?i=976517605&at=11lc22",
+            "ArtworkURL":"341203202.png",
+            "PID":[
+               
+            ]
+         },
+         {
+            "ID":341203203,
+            "Name":"夜よ明けないで",
+            "Artist":"ゲーム実況者わくわくバンド",
+            "Level":[
+               2,
+               5,
+               8
+            ],
+            "ItemURL":"https://akx-dl.konami.net/akx/data/341203203_ihcV.rb",
+            "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203203_sidx_Hd1684.m4a&id=341203203&target=JP",
+            "iTunesURL":"https://itunes.apple.com/jp/album/yeyo-mingkenaide/id1018167525?i=1018167534&at=11lc22",
+            "ArtworkURL":"341203203.png",
+            "PID":[
+               
+            ]
+         },
          {
             "ID":321041901,
             "Name":"Link",
@@ -17895,7 +17963,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341360101_y39.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341360101_sidx_KUBtns.m4a&id=341360101&target=JP",
             "iTunesURL":"",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341360101_art_qeHS.png",
+            "ArtworkURL":"341360101.png",
             "PID":[
                
             ]
@@ -17912,7 +17980,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203201_bKEo.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203201_sidx_ZP0X0.m4a&id=341203201&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wakuwakumairaifu/id976517600?i=976517604&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203201_art_H2a8ek.png",
+            "ArtworkURL":"341203201.png",
             "PID":[
                
             ]
@@ -17929,7 +17997,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203202_gCZ.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203202_sidx_7teO.m4a&id=341203202&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jin-rikurai/id976517600?i=976517605&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203202_art_zome.png",
+            "ArtworkURL":"341203202.png",
             "PID":[
                
             ]
@@ -17946,7 +18014,7 @@
             "ItemURL":"https://akx-dl.konami.net/akx/data/341203203_ihcV.rb",
             "SampleURL":"https://akx.s.konaminet.jp/akx/main/cgi/link/sample_music/?url=https%3A%2F%2Fakx-dl.konami.net%2Fakx%2Fthumb%2F341203203_sidx_Hd1684.m4a&id=341203203&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/yeyo-mingkenaide/id1018167525?i=1018167534&at=11lc22",
-            "ArtworkURL":"https://akx-dl.konami.net/akx/image/341203203_art_Zq9.png",
+            "ArtworkURL":"341203203.png",
             "PID":[
                
             ]

@@ -154,6 +154,17 @@
    "Date":"202009",
    "PackList":[
       {
+         "ID": 400,
+         "Name": "RBHOT AC 悠久のリフレシア PACK",
+         "Comment": "",
+         "ShortComment": "",
+         "IsNew": false,
+         "MusicNum":4,
+         "Copyright": "",
+         "ArtworkURL": "acPack6.png",
+         "ExtNum":0
+      },
+      {
          "ID": 399,
          "Name": "OFFICIAL AC ALL PACK (Rb1-Rb5)",
          "Comment": "",
